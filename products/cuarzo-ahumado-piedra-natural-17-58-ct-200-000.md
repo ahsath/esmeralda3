@@ -2,7 +2,7 @@
 date: 2020-04-27T02:48:02.000+00:00
 category: Piedras preciosas
 available: true
-title: Cuarzo Ahumado Piedra Natural 17.58 Ct $ 200.000
+title: Cuarzo Ahumado Piedra Natural 17.58 Ct
 description: Hermoso Ejemplar de Cuarzo ahumado Calidad AAA sin fisuras ni impurezas
   totalmente limpio
 unit_price: '200.000'
@@ -11,6 +11,7 @@ images:
 - "/uploads/5dd6b2e6-c497-48a1-a946-59ff2a2fa670.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/5dd6b2e6-c497-48a1-a946-59ff2a2fa670.jpg"
 
 ---
 Hermoso Ejemplar de Cuarzo ahumado Calidad AAA sin peligro ni impurezas totalmente limpio
