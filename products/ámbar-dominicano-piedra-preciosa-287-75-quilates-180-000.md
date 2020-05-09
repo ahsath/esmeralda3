@@ -1,9 +1,9 @@
 ---
-date: 2020-04-28T08:40:33-05:00
+date: 2020-04-28T13:40:33.000+00:00
 category: Semi preciosas
 available: true
-title: Ámbar Dominicano Piedra Preciosa  287.75 Quilates $ 180.000
-description: 'Hermoso Ejemplar de Ámbar Natural Dominicano '
+title: Ámbar Dominicano Piedra Preciosa  287.75 Quilates
+description: Hermoso Ejemplar de Ámbar Natural Dominicano
 unit_price: '180.000'
 images:
 - "/uploads/IMG_0235.jpg"
@@ -14,6 +14,7 @@ images:
 - "/uploads/IMG_0229.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_0231.jpg"
 
 ---
 Hermoso Ejemplar de Ámbar Natural Dominicano 
