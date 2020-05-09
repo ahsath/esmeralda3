@@ -1,8 +1,8 @@
 ---
-date: 2020-04-28T08:36:03-05:00
+date: 2020-04-28T13:36:03.000+00:00
 category: Semi preciosas
 available: true
-title: Ámbar Piedra Preciosa  158.65 Quilates $ 120.000
+title: Ámbar Piedra Preciosa 158.65 Quilates
 description: Copal Ambar Piedra 100% Natural
 unit_price: '120.000'
 images:
@@ -12,6 +12,7 @@ images:
 - "/uploads/IMG_0221.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_0222.jpg"
 
 ---
 Hermoso Ejemplar de Ámbar Natural
