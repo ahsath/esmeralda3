@@ -17,11 +17,9 @@
             class="title is-size-4-mobile has-text-black-ter mb-0"
           >{{ $page.p1.edges[0].node.category.title }}</h1>
           <flkty-carrousel>
-            <app-product-card
-              v-for="edge in $page.p1.edges"
-              :key="edge.node.id"
-              :product="edge.node"
-            />
+            <div class="w-86 mx-2 my-9" v-for="edge in $page.p1.edges" :key="edge.node.id">
+              <app-product-card :product="edge.node" />
+            </div>
           </flkty-carrousel>
         </div>
       </section>
@@ -32,11 +30,9 @@
             class="title is-size-4-mobile has-text-black-ter mb-0"
           >{{ $page.p2.edges[0].node.category.title }}</h1>
           <flkty-carrousel>
-            <app-product-card
-              v-for="edge in $page.p2.edges"
-              :key="edge.node.id"
-              :product="edge.node"
-            />
+            <div class="w-86 mx-2 my-9" v-for="edge in $page.p2.edges" :key="edge.node.id">
+              <app-product-card :product="edge.node" />
+            </div>
           </flkty-carrousel>
         </div>
       </section>
@@ -47,11 +43,9 @@
             class="title is-size-4-mobile has-text-black-ter mb-0"
           >{{ $page.p3.edges[0].node.category.title }}</h1>
           <flkty-carrousel>
-            <app-product-card
-              v-for="edge in $page.p3.edges"
-              :key="edge.node.id"
-              :product="edge.node"
-            />
+            <div class="w-86 mx-2 my-9" v-for="edge in $page.p3.edges" :key="edge.node.id">
+              <app-product-card :product="edge.node" />
+            </div>
           </flkty-carrousel>
         </div>
       </section>
@@ -62,11 +56,9 @@
             class="title is-size-4-mobile has-text-black-ter mb-0"
           >{{ $page.p4.edges[0].node.category.title }}</h1>
           <flkty-carrousel>
-            <app-product-card
-              v-for="edge in $page.p4.edges"
-              :key="edge.node.id"
-              :product="edge.node"
-            />
+            <div class="w-86 mx-2 my-9" v-for="edge in $page.p4.edges" :key="edge.node.id">
+              <app-product-card :product="edge.node" />
+            </div>
           </flkty-carrousel>
         </div>
       </section>
@@ -77,11 +69,9 @@
             class="title is-size-4-mobile has-text-black-ter mb-0"
           >{{ $page.p5.edges[0].node.category.title }}</h1>
           <flkty-carrousel>
-            <app-product-card
-              v-for="edge in $page.p5.edges"
-              :key="edge.node.id"
-              :product="edge.node"
-            />
+            <div class="w-86 mx-2 my-9" v-for="edge in $page.p5.edges" :key="edge.node.id">
+              <app-product-card :product="edge.node" />
+            </div>
           </flkty-carrousel>
         </div>
       </section>
@@ -103,7 +93,7 @@ query {
         category {
           title
         }
-        images(width: 208, height: 208, fit: contain, background: "white")
+        images(width: 344, height: 194, fit: cover, background: "white", quality: 80)
       }
     }
   }
@@ -119,7 +109,7 @@ query {
         category {
           title
         }
-        images(width: 208, height: 208, fit: contain, background: "white")
+        images(width: 344, height: 194, fit: cover, background: "white", quality: 80)
       }
     }
   }
@@ -135,7 +125,7 @@ query {
         category {
           title
         }
-        images(width: 208, height: 208, fit: contain, background: "white")
+        images(width: 344, height: 194, fit: cover, background: "white", quality: 80)
       }
     }
   }
@@ -151,7 +141,7 @@ query {
         category {
           title
         }
-        images(width: 208, height: 208, fit: contain, background: "white")
+        images(width: 344, height: 194, fit: cover, background: "white", quality: 80)
       }
     }
   }
@@ -167,25 +157,81 @@ query {
         category {
           title
         }
-        images(width: 208, height: 208, fit: contain, background: "white")
+        images(width: 344, height: 194, fit: cover, background: "white", quality: 80)
       }
     }
+  }
+  metadata {
+    siteName
+    siteUrl
+    siteDescription
   }
 }
 </page-query>
 
 <script>
-import AppProductCard from "@/components/AppProductCard.vue";
-import FlktyCarrousel from "@/components/FlktyCarrousel.vue";
-
 export default {
   name: "Home",
-  metaInfo: {
-    title: "Hello, world!"
-  },
-  components: {
-    AppProductCard,
-    FlktyCarrousel
+  data: () => ({
+    meta: {
+      title:
+        "Venta y talla de miles de rocas preciosas, semipreciosas y fósiles"
+    }
+  }),
+  metaInfo() {
+    return {
+      title: this.meta.title,
+      htmlAttrs: {
+        lang: "es-CO"
+      },
+      meta: [
+        {
+          name: "title",
+          content: this.meta.title
+        },
+        {
+          name: "description",
+          content: this.$page.metadata.siteDescription
+        },
+        // og / facebook
+        {
+          property: "og:url",
+          content: this.$page.metadata.siteUrl
+        },
+        {
+          property: "og:title",
+          content: this.meta.title
+        },
+        {
+          property: "og:description",
+          content: this.$page.metadata.siteDescription
+        },
+        {
+          property: "og:image",
+          content: `${this.$page.metadata.siteUrl}/og.jpg`
+        },
+        { property: "og:type", content: "website" },
+        { property: "og:locale", content: "es_CO" },
+        // twitter
+        { property: "twitter:card", content: "summary_large_image" },
+        {
+          property: "twitter:url",
+          content: this.$page.metadata.siteUrl
+        },
+        {
+          property: "twitter:title",
+          content: this.meta.title
+        },
+        {
+          property: "twitter:description",
+          content: this.$page.metadata.siteDescription
+        },
+        {
+          property: "twitter:image",
+          content: `${this.$page.metadata.siteUrl}/og.jpg`
+        }
+      ]
+    };
   }
 };
 </script>
@@ -193,5 +239,16 @@ export default {
 <style>
 .mb-0 {
   margin-bottom: 0 !important;
+}
+.w-86 {
+  width: 21.5rem;
+}
+.mx-2 {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.my-9 {
+  margin-top: 2.25rem;
+  margin-bottom: 2.25rem;
 }
 </style>
