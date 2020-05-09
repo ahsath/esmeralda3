@@ -1,0 +1,31 @@
+---
+label: Producto
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: category
+  label: category
+- type: boolean
+  name: available
+  label: available
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: unit_price
+  label: unit_price
+- type: image_gallery
+  name: images
+  label: images
+- type: boolean
+  name: sellable
+  label: sellable
+- type: text
+  name: payu_purchase_link
+  label: payu_purchase_link
