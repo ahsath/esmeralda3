@@ -1,9 +1,9 @@
 ---
-date: 2020-04-28T10:34:25-05:00
+date: 2020-04-28T15:34:25.000+00:00
 category: Semi preciosas
 available: true
-title: Ambar Copal Natural 285 Gramos $ 500.000
-description: 'Hermoso Ejemplar de Ámbar Colombiano '
+title: Ambar Copal Natural 285 Gramos
+description: Hermoso Ejemplar de Ámbar Colombiano
 unit_price: '500.000'
 images:
 - "/uploads/IMG_0311.jpg"
@@ -17,6 +17,7 @@ images:
 - "/uploads/IMG_0301.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_0301.jpg"
 
 ---
 Hermoso Ejemplar de Ámbar Colombiano 
