@@ -1,8 +1,8 @@
 ---
-date: 2020-04-27T16:19:05-05:00
+date: 2020-04-27T21:19:05.000+00:00
 category: Piedras preciosas
 available: true
-title: Lapislázuli Pakistán Piedra Natural 507 Gramos $ 460.000
+title: Lapislázuli Pakistán Piedra Natural 507 Gramos
 description: Hermoso Ejemplar de Lapislázuli Piedra 100% Natural
 unit_price: '460.000'
 images:
@@ -13,6 +13,7 @@ images:
 - "/uploads/0c5e725c-d4ab-4c80-a225-593885a7ae94.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/8562b006-470b-41f2-be3c-6d3a33f5f9a8.jpg"
 
 ---
 Hermoso Ejemplar de Lapislázuli Piedra 100% Natural
