@@ -6,11 +6,25 @@
 
 <script>
 export default {
+  props: {
+    autoplay: {
+      type: Boolean,
+      default: false
+    }
+  },
   async mounted() {
     const { default: flickity } = await import(
       /* webpackChunkName: "flickity" */ "flickity"
     );
-    new flickity(this.$refs.flickity, { pageDots: false, groupCells: true });
+    await import(
+      /* webpackChunkName: "flickity-imagesloaded" */ "flickity-imagesloaded"
+    );
+    new flickity(this.$refs.flickity, {
+      pageDots: false,
+      groupCells: true,
+      autoPlay: this.autoplay,
+      imagesLoaded: true
+    });
   }
 };
 </script>
