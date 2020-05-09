@@ -1,9 +1,9 @@
 ---
-date: 2020-04-27T16:30:37-05:00
+date: 2020-04-27T21:30:37.000+00:00
 category: Piedras preciosas
 available: true
-title: Ágata Seda De Madagascar Piedra Natural 471 Gramos $ 370.000
-description: 'Hermosa Ágata de Seda de Madagascar  100% Natural '
+title: Ágata Seda De Madagascar Piedra Natural 471 Gramos
+description: Hermosa Ágata de Seda de Madagascar 100% Natural
 unit_price: '370.000'
 images:
 - "/uploads/IMG_1094.jpg"
@@ -13,6 +13,7 @@ images:
 - "/uploads/IMG_1090.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_1092.jpg"
 
 ---
 Hermosa Ágata de Seda de Madagascar 100% Natural 

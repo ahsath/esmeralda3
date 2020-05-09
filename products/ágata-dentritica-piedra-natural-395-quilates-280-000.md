@@ -1,9 +1,9 @@
 ---
-date: 2020-04-27T14:14:41-05:00
+date: 2020-04-27T19:14:41.000+00:00
 category: Semi preciosas
 available: true
-title: Ágata Dentritica Piedra Natural 395 Quilates $ 280.000
-description: "Hermoso Ejemplar de Ágata Dentritica\nOrigen Marruecos "
+title: Ágata Dentritica Piedra Natural 395 Quilates
+description: Hermoso Ejemplar de Ágata DentriticaOrigen Marruecos
 unit_price: '280.000'
 images:
 - "/uploads/b60b5f1e-75b5-4b80-8601-7996e00e604c.jpg"
@@ -12,6 +12,7 @@ images:
 - "/uploads/23466536-f249-41a9-b0ab-3102b6c9b15b.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/b60b5f1e-75b5-4b80-8601-7996e00e604c.jpg"
 
 ---
 Hermoso Ejemplar de Ágata Dentritica
