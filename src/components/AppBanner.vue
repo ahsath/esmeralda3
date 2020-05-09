@@ -4,7 +4,7 @@
     <div class="is-flex items-end absolute top-0 left-0 w-full h-full bg-black-transparent">
       <div class="section pb-8 flex-grow">
         <div class="container">
-          <h1 class="title has-text-white has-text-centered">{{ title }}</h1>
+          <h1 class="title is-size-4-mobile has-text-white has-text-centered">{{ title }}</h1>
           <app-search />
         </div>
       </div>
