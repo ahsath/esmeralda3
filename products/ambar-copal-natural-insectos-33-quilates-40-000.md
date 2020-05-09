@@ -1,8 +1,8 @@
 ---
-date: 2020-04-28T10:09:41-05:00
+date: 2020-04-28T15:09:41.000+00:00
 category: Semi preciosas
 available: true
-title: Ambar Copal Natural Insectos 33 Quilates  $ 40.000
+title: Ambar Copal Natural Insectos 33 Quilates
 description: Ambar Copal 100% Natural Con Insectos
 unit_price: '40.000'
 images:
@@ -12,6 +12,7 @@ images:
 - "/uploads/IMG_0272.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_0275.jpg"
 
 ---
 Hermoso Ejemplar de Ámbar Copal
