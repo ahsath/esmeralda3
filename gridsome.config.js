@@ -12,7 +12,7 @@ module.exports = {
     whatsapp: '573122427586',
     instagram: 'https://www.instagram.com/esmerald_a3/',
     youtube: 'https://www.youtube.com/channel/UC8cHuqljd4lyPDJr9Tenn5Q',
-    facebook: ''
+    facebook: 'https://www.facebook.com/Esmerald-A3-350095612260511/'
   },
   plugins: [
     {
