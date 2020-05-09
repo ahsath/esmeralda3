@@ -1,8 +1,8 @@
 ---
-date: 2020-04-27T14:37:05-05:00
+date: 2020-04-27T19:37:05.000+00:00
 category: Semi preciosas
 available: true
-title: Crisoprasa Piedra Natural 299 Gramos $ 250.000
+title: Crisoprasa Piedra Natural 299 Gramos
 description: Ejemplar de Crisoprasa en Bruto 100% Natural
 unit_price: '250.000'
 images:
@@ -13,9 +13,9 @@ images:
 - "/uploads/IMG_1054.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_1054.jpg"
 
 ---
-
 Ejemplar de Crisoprasa en Bruto 
 
 Origen Indonesia 
