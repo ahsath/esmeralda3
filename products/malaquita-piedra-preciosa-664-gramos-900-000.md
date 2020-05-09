@@ -1,8 +1,8 @@
 ---
-date: 2020-04-28T08:29:46-05:00
+date: 2020-04-28T13:29:46.000+00:00
 category: Semi preciosas
 available: true
-title: Malaquita Piedra Preciosa 664 Gramos $ 900.000
+title: Malaquita Piedra Preciosa 664 Gramos
 description: Hermosa Malaquita Piedra 100% Natural
 unit_price: '900.000'
 images:
@@ -12,6 +12,7 @@ images:
 - "/uploads/IMG_0214.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_0220.jpg"
 
 ---
 Hermosa Malaquita natural pulida calidad AAA
