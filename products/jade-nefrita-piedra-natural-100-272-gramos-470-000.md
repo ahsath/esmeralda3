@@ -1,8 +1,8 @@
 ---
-date: 2020-04-27T14:19:02-05:00
+date: 2020-04-27T19:19:02.000+00:00
 category: Piedras preciosas
 available: true
-title: Jade Nefrita Piedra Natural 100% 272 Gramos $ 470.000
+title: Jade Nefrita Piedra Natural 100% 272 Gramos
 description: Hermoso Ejemplar de Jade Nefrita Piedra Natural 100%
 unit_price: '450.000'
 images:
@@ -12,6 +12,7 @@ images:
 - "/uploads/IMG_20190928_020218.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_20190928_020236.jpg"
 
 ---
 Hermoso Ejemplar de Jade Nefrita Piedra Natural 100%
