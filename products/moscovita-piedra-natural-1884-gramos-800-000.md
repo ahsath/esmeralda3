@@ -1,8 +1,8 @@
 ---
-date: 2020-04-28T07:49:15-05:00
+date: 2020-04-28T12:49:15.000+00:00
 category: Piedras preciosas
 available: true
-title: Moscovita Piedra Natural 1884 Gramos $ 800.000
+title: Moscovita Piedra Natural 1884 Gramos
 description: 'Moscovita Piedra 100% Natural Pieza de Colección '
 unit_price: '800.000'
 images:
@@ -15,6 +15,7 @@ images:
 - "/uploads/IMG_0069.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_0076.jpg"
 
 ---
 Hermoso Ejemplar de Moscovita Piedra Natural
