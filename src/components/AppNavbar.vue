@@ -12,10 +12,30 @@
     </template>
     <template #start>
       <div class="social is-flex">
-        <app-link-icon to="." icon="whatsapp" />
-        <app-link-icon to="." icon="instagram" />
-        <app-link-icon to="." icon="youtube" />
-        <app-link-icon to="." icon="facebook" />
+        <app-link-icon
+          v-if="$static.metadata.whatsapp"
+          :to="`https://wa.me/${$static.metadata.whatsapp}`"
+          aria-label="Chat en WhatsApp"
+          icon="whatsapp"
+        />
+        <app-link-icon
+          v-if="$static.metadata.instagram"
+          :to="`${$static.metadata.instagram}`"
+          aria-label="Ir al Instagram"
+          icon="instagram"
+        />
+        <app-link-icon
+          v-if="$static.metadata.youtube"
+          :to="`${$static.metadata.youtube}`"
+          aria-label="Ir a YouTube"
+          icon="youtube"
+        />
+        <app-link-icon
+          v-if="$static.metadata.facebook"
+          :to="`${$static.metadata.facebook}`"
+          aria-label="Ir a Facebook"
+          icon="facebook"
+        />
       </div>
     </template>
     <template #end>
@@ -40,6 +60,12 @@ query {
        	path
       }
     }
+  }
+  metadata {
+    whatsapp
+    instagram
+    youtube
+    facebook
   }
 }
 </static-query>
@@ -73,7 +99,6 @@ export default {
   height: 3rem;
   cursor: pointer;
   background-color: transparent;
-
   border: none;
   border-radius: 50%;
   outline: none;
