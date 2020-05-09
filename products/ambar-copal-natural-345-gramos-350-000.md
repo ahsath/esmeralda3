@@ -1,9 +1,9 @@
 ---
-date: 2020-04-28T10:23:47-05:00
+date: 2020-04-28T15:23:47.000+00:00
 category: Semi preciosas
 available: true
-title: Ambar Copal Natural 345 Gramos $ 350.000
-description: 'Ambar Copal 100% Natural '
+title: Ambar Copal Natural 345 Gramos
+description: Ambar Copal 100% Natural
 unit_price: '350.000'
 images:
 - "/uploads/IMG_0300.jpg"
@@ -14,6 +14,7 @@ images:
 - "/uploads/IMG_0294.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_0294.jpg"
 
 ---
 Hermoso Ejemplar de Ámbar Dominicano
