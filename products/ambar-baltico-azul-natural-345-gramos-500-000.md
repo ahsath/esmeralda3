@@ -1,8 +1,8 @@
 ---
-date: 2020-04-28T10:49:18-05:00
+date: 2020-04-28T15:49:18.000+00:00
 category: Semi preciosas
 available: true
-title: Ambar Baltico Azul Natural  345 Gramos $ 500.000
+title: Ambar Baltico Azul Natural 345 Gramos
 description: Ambar Baltico Azul 100% Natural
 unit_price: '500.000'
 images:
@@ -14,6 +14,7 @@ images:
 - "/uploads/IMG_0324.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_0325.jpg"
 
 ---
 Hermoso Ejemplar de Ámbar Báltico Azul 
