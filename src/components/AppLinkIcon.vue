@@ -1,5 +1,10 @@
 <template>
-  <a :href="to" target="__blank" class="is-flex items-center justify-center">
+  <a
+    :href="to"
+    target="__blank"
+    :aria-label="ariaLabel"
+    class="is-flex items-center justify-center"
+  >
     <b-icon :icon="icon" type="is-white" />
   </a>
 </template>
@@ -12,6 +17,10 @@ export default {
       required: true
     },
     icon: {
+      type: String,
+      required: true
+    },
+    ariaLabel: {
       type: String,
       required: true
     }
