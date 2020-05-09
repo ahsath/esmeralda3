@@ -15,7 +15,7 @@
         <g-link :to="option.node.path">
           <article class="media">
             <figure class="media-left">
-              <g-image :src="option.node.images[0]" class="is-block" />
+              <g-image :src="option.node.cover_img" :alt="option.node.title" class="is-block" />
             </figure>
             <div class="media-content">
               <div class="content">
@@ -58,7 +58,7 @@
           title
         }
         path
-        images(width: 64, height: 64, fit: contain, background: "white")
+        cover_img(width: 64, height: 64, fit: contain, background: "white")
       }
     }
   }
