@@ -2,8 +2,8 @@
 date: 2020-04-27T02:36:09.000+00:00
 category: Piedras preciosas
 available: true
-title: Coral Rojo Piedra Natural 2.55 Quilates $ 200.000
-description: https://youtu.be/kSFNOugjoqs
+title: Coral Rojo Piedra Natural 2.55 Quilates
+description: Hermoso Cabujón de Coral Rojo
 unit_price: '200.000'
 images:
 - "/uploads/f6a0ca47-a16f-4c5e-a4da-8d0df8db085d-1.jpg"
@@ -12,6 +12,7 @@ images:
 - "/uploads/0bee86fe-02dc-4bb5-8642-d4dd75aa11e1-1.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/f6a0ca47-a16f-4c5e-a4da-8d0df8db085d.jpg"
 
 ---
 Hermoso Cabujón de Coral Rojo
