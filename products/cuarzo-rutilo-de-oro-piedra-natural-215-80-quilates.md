@@ -11,7 +11,8 @@ images:
 sellable: false
 payu_purchase_link: ''
 date: 2020-01-25T06:55:49.000+00:00
-description: 'Hermoso Cuarzo Rutilo De Oro Natural Origen India '
+description: Hermoso Cuarzo Rutilo De Oro Natural Origen India
+cover_img: "/uploads/Cuarzo Rutilo De Oro Piedra Natural 4.jpg"
 
 ---
 Hermoso Cuarzo Rutilo De Oro Natural 
