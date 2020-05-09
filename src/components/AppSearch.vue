@@ -35,7 +35,7 @@
         No puedes encontrar
         <strong>{{ search }}</strong>?
         <a
-          :href="`https://wa.me/573122427586?text=Hola, estoy buscando: ${search}`"
+          :href="`https://wa.me/${$static.metadata.whatsapp}?text=Hola, estoy buscando: ${search}`"
           class="has-text-info hast-text-size-7"
         >
           <b-icon icon="whatsapp" size="is-small" />Pregúntame en
@@ -61,6 +61,9 @@
         images(width: 64, height: 64, fit: contain, background: "white")
       }
     }
+  }
+  metadata {
+    whatsapp
   }
 }
 </static-query>
@@ -90,7 +93,7 @@ export default {
   padding-right: 1rem !important;
 }
 .autocomplete .dropdown-item.is-disabled {
-  opacity: 1;
-  cursor: initial;
+  opacity: 1 !important;
+  cursor: initial !important;
 }
 </style>
