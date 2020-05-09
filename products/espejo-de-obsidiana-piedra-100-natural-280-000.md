@@ -1,8 +1,8 @@
 ---
-date: 2020-05-02T11:11:39-05:00
+date: 2020-05-02T16:11:39.000+00:00
 category: Semi preciosas
 available: true
-title: Espejo De Obsidiana Piedra 100% Natural $ 280.000
+title: Espejo De Obsidiana Piedra 100% Natural
 description: Hermoso Espejo en Obsidiana Piedra Natural
 unit_price: '280.000'
 images:
@@ -12,6 +12,7 @@ images:
 - "/uploads/9b8c766d-9b66-46e2-851d-30915b438f2c.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/a350fe40-bf03-4711-a5eb-ad7bf63a4261.jpg"
 
 ---
 Espejo de Obsidiana Piedra Natural 100%
