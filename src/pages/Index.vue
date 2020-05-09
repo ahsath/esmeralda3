@@ -93,7 +93,7 @@ query {
         category {
           title
         }
-        images(width: 344, height: 194, fit: cover, background: "white", quality: 80)
+        cover_img(width: 344, height: 194, fit: cover, background: "white", quality: 80)
       }
     }
   }
@@ -109,7 +109,7 @@ query {
         category {
           title
         }
-        images(width: 344, height: 194, fit: cover, background: "white", quality: 80)
+        cover_img(width: 344, height: 194, fit: cover, background: "white", quality: 80)
       }
     }
   }
@@ -125,7 +125,7 @@ query {
         category {
           title
         }
-        images(width: 344, height: 194, fit: cover, background: "white", quality: 80)
+        cover_img(width: 344, height: 194, fit: cover, background: "white", quality: 80)
       }
     }
   }
@@ -141,7 +141,7 @@ query {
         category {
           title
         }
-        images(width: 344, height: 194, fit: cover, background: "white", quality: 80)
+        cover_img(width: 344, height: 194, fit: cover, background: "white", quality: 80)
       }
     }
   }
@@ -157,7 +157,7 @@ query {
         category {
           title
         }
-        images(width: 344, height: 194, fit: cover, background: "white", quality: 80)
+        cover_img(width: 344, height: 194, fit: cover, background: "white", quality: 80)
       }
     }
   }
