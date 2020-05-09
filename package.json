@@ -9,6 +9,7 @@
   "dependencies": {
     "buefy": "^0.8.17",
     "flickity": "^2.2.1",
+    "flickity-imagesloaded": "^2.0.0",
     "gridsome": "^0.7.0",
     "v-viewer": "^1.5.1"
   },
