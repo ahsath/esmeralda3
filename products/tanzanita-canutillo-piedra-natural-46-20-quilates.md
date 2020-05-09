@@ -11,7 +11,9 @@ images:
 - "/uploads/IMG_20190913_163000.jpg"
 sellable: false
 payu_purchase_link: ''
-description: https://youtu.be/0WwrqdYYRow
+description: Hermosa Tanzanita Origen natural Kilimanjaro Tanzania Peso 46.20 Quilates
+  Medidas 29 X 20 X 12 Milímetros
+cover_img: "/uploads/IMG_20190913_162927.jpg"
 
 ---
 Hermosa Tanzanita Origen natural Kilimanjaro Tanzania Peso 46.20 Quilates Medidas 29 X 20 X 12 Milímetros
