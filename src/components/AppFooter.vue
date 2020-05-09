@@ -1,15 +1,63 @@
 <template>
   <footer class="footer">
     <div class="has-text-centered">
-      <p>
-        <strong>Bulma</strong> by
-        <a href="https://jgthms.com">Jeremy Thomas</a>. The source code is licensed
-        <a href="http://opensource.org/licenses/mit-license.php">MIT</a>. The website content
-        is licensed
+      <div class="is-inline-block leading-none">
         <a
-          href="http://creativecommons.org/licenses/by-nc-sa/4.0/"
-        >CC BY NC SA 4.0</a>.
+          v-if="$static.metadata.whatsapp"
+          :href="`https://wa.me/${$static.metadata.whatsapp}`"
+          class="is-inline-block has-text-grey-light ma-1"
+        >
+          <b-icon icon="whatsapp" />
+        </a>
+        <a
+          v-if="$static.metadata.instagram"
+          :href="`${$static.metadata.instagram}`"
+          class="is-inline-block has-text-grey-light ma-1"
+        >
+          <b-icon icon="instagram" />
+        </a>
+        <a
+          v-if="$static.metadata.youtube"
+          :href="`${$static.metadata.youtube}`"
+          class="is-inline-block has-text-grey-light ma-1"
+        >
+          <b-icon icon="youtube" />
+        </a>
+        <a
+          v-if="$static.metadata.facebook"
+          :href="`${$static.metadata.facebook}`"
+          class="is-inline-block has-text-grey-light ma-1"
+        >
+          <b-icon icon="facebook" />
+        </a>
+      </div>
+      <p class="mt-4 is-size-7 has-text-grey">
+        &copy;
+        {{ new Date().getFullYear() }} · EsmeraldA3
       </p>
     </div>
   </footer>
 </template>
+
+<static-query>
+query {
+  metadata {
+    whatsapp
+    instagram
+    youtube
+    facebook
+  }
+}
+</static-query>
+
+<style scoped>
+.ma-1 {
+  margin: 0.25rem;
+}
+.leading-none {
+  line-height: 1;
+}
+a:hover {
+  color: black !important;
+}
+</style>
