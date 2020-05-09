@@ -1,8 +1,8 @@
 ---
-date: 2020-04-28T09:28:23-05:00
+date: 2020-04-28T14:28:23.000+00:00
 category: Piedras preciosas
 available: true
-title: Ambar Copal Natural Insectos 19 Quilates  $ 120.000
+title: Ambar Copal Natural Insectos 19 Quilates
 description: Ambar Copal Natural Insectos  100% Natural
 unit_price: '120.000'
 images:
@@ -12,6 +12,7 @@ images:
 - "/uploads/1aswe.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_0248.jpg"
 
 ---
 Hermoso Ejemplar de Ámbar Copal
