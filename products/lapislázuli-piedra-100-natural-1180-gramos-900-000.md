@@ -1,8 +1,8 @@
 ---
-date: 2020-04-27T15:41:09-05:00
+date: 2020-04-27T20:41:09.000+00:00
 category: Piedras preciosas
 available: true
-title: 'Lapislázuli Piedra 100% Natural 1180 Gramos $  900.000 '
+title: Lapislázuli Piedra 100% Natural 1180 Gramos
 description: Hermoso Ejemplar de Lapislázuli Piedra 100% Natural
 unit_price: '900.000'
 images:
@@ -14,6 +14,7 @@ images:
 - "/uploads/IMG_1077.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_20190928_020805.jpg"
 
 ---
 Hermoso Ejemplar de Lapislázuli Piedra 100% Natural
