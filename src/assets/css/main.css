@@ -9,7 +9,7 @@ body {
     padding-right: 0 !important;
 }
 
-/* Custom classes */
+/* Custom classes  */
 .h-medium {
     height: var(--hero-medium);
 }
