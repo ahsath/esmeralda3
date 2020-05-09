@@ -1,8 +1,8 @@
 ---
-date: 2020-04-28T08:15:59-05:00
+date: 2020-04-28T13:15:59.000+00:00
 category: Semi preciosas
 available: true
-title: Cuarzo Citrino Fantasma Piedra Natural 285 Quilates $120.000
+title: Cuarzo Citrino Fantasma Piedra Natural 285 Quilates
 description: Cuarzo Citrino Fantasma Piedra 100% Natural
 unit_price: '120.000'
 images:
@@ -12,6 +12,7 @@ images:
 - "/uploads/IMG_0146.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_0149.jpg"
 
 ---
 Hermoso Ejemplar de Citrino Fantasma 
