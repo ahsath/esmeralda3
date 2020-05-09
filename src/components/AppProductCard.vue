@@ -4,7 +4,7 @@
     class="is-block mx-w-86 rounded-lg shadow hover:shadow-xl transition-all duration-350 ease-out"
     target="__self"
   >
-    <g-image :src="product.images[0]" :alt="product.title" class="is-block rounded-t-lg" />
+    <g-image :src="product.cover_img" :alt="product.title" class="is-block rounded-t-lg" />
     <div class="pa-4">
       <b-tag v-if="product.available" type="is-light" rounded>Disponible</b-tag>
       <b-tag v-else disabled>Agotado</b-tag>
