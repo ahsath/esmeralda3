@@ -1,8 +1,8 @@
 ---
-date: 2020-04-28T11:24:14-05:00
+date: 2020-04-28T16:24:14.000+00:00
 category: Semi preciosas
 available: true
-title: " Estalagmita Piedra Natural 1050 Gramos $ 500.000"
+title: " Estalagmita Piedra Natural 1050 Gramos"
 description: " Estalagmita Piedra 100% Natural"
 unit_price: '500.000'
 images:
@@ -15,6 +15,7 @@ images:
 - "/uploads/IMG_0350.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_0359.jpg"
 
 ---
 Hermosa Stalagmita 100% Natural 
