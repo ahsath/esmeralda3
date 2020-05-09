@@ -1,9 +1,9 @@
 ---
-date: 2020-04-27T16:36:00-05:00
+date: 2020-04-27T21:36:00.000+00:00
 category: Raras
 available: true
-title: Aragonito Azul Piedra Natural 1406 Gramos $ 1.200.000
-description: 'Hermoso Ejemplar de Aragonito Piedra 100% Natural '
+title: Aragonito Azul Piedra Natural 1406 Gramos
+description: Hermoso Ejemplar de Aragonito Piedra 100% Natural
 unit_price: 1.200.000
 images:
 - "/uploads/IMG_0050.jpg"
@@ -13,6 +13,7 @@ images:
 - "/uploads/IMG_0046.jpg"
 sellable: false
 payu_purchase_link: ''
+cover_img: "/uploads/IMG_0050.jpg"
 
 ---
 Hermoso Ejemplar de Aragonito Piedra Natural
