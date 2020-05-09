@@ -13,6 +13,7 @@ payu_purchase_link: ''
 description: Hermoso y Raro Espécimen de Piedra Rosa De Desierto Origen Argelia desierto
   del Sáhara Peso 160 Gramos Medidas Largo 83.71 Milímetros Ancho 71.76 Milímetros
   Alto 60.15 Milímetros
+cover_img: "/uploads/5d674b98-39a7-4cff-a290-06cfe9c0d4bb.jpg"
 
 ---
 Hermoso y Raro Espécimen de Piedra Rosa De Desierto Origen Argelia desierto del Sáhara Peso 160 Gramos Medidas Largo 83.71 Milímetros Ancho 71.76 Milímetros Alto 60.15 Milímetros
