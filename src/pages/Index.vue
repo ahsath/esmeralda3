@@ -82,7 +82,7 @@
             class="title is-size-4-mobile has-text-black-ter mb-0"
           >{{ $page.p6.edges[0].node.category.title }}</h1>
           <flkty-carrousel>
-            <div class="w-86 mx-2 my-9" v-for="edge in $page.p5.edges" :key="edge.node.id">
+            <div class="w-86 mx-2 my-9" v-for="edge in $page.p6.edges" :key="edge.node.id">
               <app-product-card :product="edge.node" />
             </div>
           </flkty-carrousel>
