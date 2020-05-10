@@ -12,7 +12,7 @@ images:
 - "/uploads/DSC020777.jpg"
 - "/uploads/DSC020766.jpg"
 - "/uploads/DSC020755.jpg"
-- "/uploads/DSC020743.jpg"
+- "/uploads/DSC020744.jpg"
 - "/uploads/DSC020733.jpg"
 - "/uploads/DSC020722.jpg"
 - "/uploads/DSC020711.jpg"
