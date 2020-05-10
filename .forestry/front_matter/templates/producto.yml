@@ -69,4 +69,5 @@ fields:
   description: Indica si el producto esta disponible
   default: true
 pages:
+- products/coral-rojo-perforada-piedra-natura-73-08-quilates-42-000.md
 - products/piedra-onix-cielo-piedra-natural-kilo-50-000.md
