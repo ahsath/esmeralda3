@@ -1,8 +1,8 @@
 ---
-date: 2020-05-10T16:18:40Z
+date: 2020-05-10T16:18:40.000+00:00
 category: Semi preciosas
 available: true
-title: Coral Rojo Perforada Piedra Natura 73.08 Quilates $ 42.000
+title: Coral Rojo Perforada Piedra Natura 73.08 Quilates
 unit_price: '42.000'
 description: Hermosas Perlas de Coral Rojo Natural
 cover_img: "/uploads/db2f5686-cce8-4aac-89ac-54766d78ea9b.jpg"

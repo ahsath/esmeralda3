@@ -2,7 +2,7 @@
 date: 2020-05-10T16:49:21Z
 category: Semi preciosas
 available: true
-title: Henossita Natural Piedra Preciosa 1.85 Quilates $ 150.000
+title: 'Henossita Natural Piedra Preciosa 1.85 Quilates '
 unit_price: '150.000'
 description: 'Hermosa Piedra Natural de Henossita limpia transparente sin fisuras
   ni impurezas '
@@ -12,11 +12,11 @@ images:
 - "/uploads/01a33673-caa7-47f4-87bc-9b60cce0b7d8.jpg"
 
 ---
-Hermosa Piedra Natural de Henossita limpia transparente sin fisuras ni impurezas 
+Hermosa Piedra Natural de Henossita limpia transparente sin complicaciones ni impurezas
 
-Origen Gerais Brasil 
+Origen Gerais Brasil
 
-Peso 1.85 Quilates 
+Peso 1.85 quilates
 
 Medidas 8 X 6 X 4 Milímetros
 

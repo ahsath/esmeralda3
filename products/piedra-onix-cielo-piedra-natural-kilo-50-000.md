@@ -1,8 +1,8 @@
 ---
-date: 2020-05-10T16:09:57Z
+date: 2020-05-10T16:09:57.000+00:00
 category: Semi preciosas
 available: true
-title: Piedra Onix Cielo Piedra Natural Kilo $ 50.000
+title: Piedra Onix Cielo Piedra Natural por Kilos
 unit_price: '50.000'
 description: 'Piedra Onix Cielo por Kilos o Toneladas Para Decoraciones finas'
 cover_img: "/uploads/DSC02058.jpg"
