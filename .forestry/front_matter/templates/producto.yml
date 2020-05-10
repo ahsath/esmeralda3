@@ -68,3 +68,5 @@ fields:
   label: Producto disponible
   description: Indica si el producto esta disponible
   default: true
+pages:
+- products/piedra-onix-cielo-piedra-natural-kilo-50-000.md
