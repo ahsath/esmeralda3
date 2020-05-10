@@ -44,6 +44,7 @@ fields:
     - Fósil
     - Raras
     - Otros
+    - Meteoritos
     source:
       type: simple
       section: 
