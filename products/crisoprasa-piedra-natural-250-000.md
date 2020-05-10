@@ -2,7 +2,7 @@
 date: 2020-04-27T19:55:02.000+00:00
 category: Semi preciosas
 available: true
-title: Crisoprasa Piedra Natural
+title: 'Crisoprasa Piedra 100% Natural '
 description: 'Ejemplar de Crisoprasa de Indonesia '
 unit_price: '250.000'
 images:
