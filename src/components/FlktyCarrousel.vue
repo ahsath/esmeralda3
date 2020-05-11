@@ -34,10 +34,10 @@ export default {
   display: none;
 }
 .flickity-prev-next-button.previous {
-  left: -1.25rem;
+  left: -1.25rem !important;
 }
 .flickity-prev-next-button.next {
-  right: -1.25rem;
+  right: -1.25rem !important;
 }
 .flickity-prev-next-button {
   display: flex;

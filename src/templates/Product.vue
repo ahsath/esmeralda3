@@ -2,7 +2,7 @@
   <app-shell>
     <main>
       <v-viewer class="has-background-black-bis">
-        <flkty-carrousel>
+        <flkty-carrousel style="margin: 0 2rem">
           <g-image
             v-for="(image, i) in $page.product.images"
             :key="i"
