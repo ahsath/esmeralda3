@@ -3,7 +3,7 @@ date: 2020-05-12T08:08:58Z
 category: Piedras preciosas
 available: true
 title: Diamante 100% Natural 0.25 Quilates
-unit_price: "$ 500.000"
+unit_price: "$ 1.500.000"
 description: Diamante 100% Natural 0.25 Quilates
 cover_img: "/uploads/IMG_20200331_034200.jpg"
 images:
