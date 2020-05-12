@@ -2,7 +2,7 @@
 date: 2020-05-12T17:05:46Z
 category: Semi preciosas
 available: true
-title: 'Cuarzo Negro Piedra Natural 143.45 Quilates '
+title: 'Cuarzo Negro Piedra Natural 144 Quilates '
 unit_price: "$ 110.000"
 description: Cuarzo Negro Gemelo Piedra 100% Natural
 cover_img: "/uploads/IMG_0550.jpg"
