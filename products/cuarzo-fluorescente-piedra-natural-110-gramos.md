@@ -13,13 +13,15 @@ images:
 - "/uploads/IMG_0511.jpg"
 
 ---
-Cuarzo Fluorescente 100% Natural 
+Cuarzo Fluorescente 100% Natural
 
-Origen Boyaca 
+Origen Boyaca
 
-Peso 110 Gramos 
+Peso 110 Gramos
 
 Medidas 7,50 X 4.50 X 3.50 Centímetros
+
+[https://youtu.be/Dz35x0owM4I](https://youtu.be/Dz35x0owM4I "https://youtu.be/Dz35x0owM4I")
 
 El cuarzo es uno de los cristales más empleados en la actualidad por los gemoterapeutas. Se le atribuyen las propiedades de sanador, limpiador y amplificador de energías sutiles.
 
