@@ -3,7 +3,7 @@ date: 2020-05-12T14:15:27Z
 category: Semi preciosas
 available: true
 title: Ojo De Buey Piedra 100% Natural 28.30 Quilates
-unit_price: "$ 25.000"
+unit_price: '25.000'
 description: 'Hermoso Cabujon de Piedra de Ojo de Buey '
 cover_img: "/uploads/4f3c9904-6036-41f2-b45b-156aca9bce8b.jpg"
 images:
