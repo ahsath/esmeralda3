@@ -3,7 +3,7 @@ date: 2020-05-12T15:06:19Z
 category: Piedras preciosas
 available: true
 title: " Apophyllite Natural Piedra Preciosa 149 Gramos"
-unit_price: "$ 250.000"
+unit_price: "$ 260.000"
 description: 'Hermoso Ejemplar de Apophyllite Piedra Rara 100% Natural '
 cover_img: "/uploads/IMG_0453.jpg"
 images:
