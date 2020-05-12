@@ -3,7 +3,7 @@ date: 2020-05-12T16:26:42Z
 category: Semi preciosas
 available: true
 title: Cuarzo Fluorescente Piedra Natural 110 Gramos
-unit_price: "$ 120.000"
+unit_price: "$ 150.000"
 description: 'Raro Cuarzo Fluorescente Piedra 100% Natural '
 cover_img: "/uploads/IMG_0517.jpg"
 images:
