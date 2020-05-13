@@ -3,7 +3,7 @@ date: 2020-05-12T14:38:11Z
 category: Semi preciosas
 available: true
 title: Cuarzo Rutilo Turmalina Piedra 100% Natural
-unit_price: "$ 150.000"
+unit_price: " 150.000"
 description: 'Espécimen de Cuarzo Rutilo Turmalinado  Origen Madagascar '
 cover_img: "/uploads/IMG_0445.jpg"
 images:
