@@ -1,27 +1,31 @@
 ---
-date: 2020-05-13T17:50:52Z
+date: 2020-05-13T17:56:47Z
 category: Semi preciosas
 available: true
-title: 'Boguel Cuarzo Lemuriano Piedra Natural 176.45 Quilates '
+title: 'Cuarzo Lemuriano Rojo Piedra Natural 142.50 Ct '
 unit_price: '140.000'
-description: Hermoso Boguel de Cuarzo Lemuriano Rojo 100% Natural
-cover_img: "/uploads/IMG_0947.jpg"
+description: Hermoso Ejemplar de Cuarzo Lemuriano Rojo Piedra 100% Natural
+cover_img: "/uploads/IMG_0959.jpg"
 images:
-- "/uploads/IMG_0952.jpg"
-- "/uploads/IMG_0950.jpg"
-- "/uploads/IMG_0949.jpg"
-- "/uploads/IMG_0948.jpg"
+- "/uploads/IMG_0962.jpg"
+- "/uploads/IMG_0961.jpg"
+- "/uploads/IMG_0960.jpg"
+- "/uploads/IMG_0958.jpg"
 
 ---
-Hermoso Boguel de Cuarzo Lemuriano Rojo 
+Hermoso Ejemplar de Cuarzo Lemuriano Rojo 
 
 Origen Provincia de Alicante España 
 
-Peso 176.45 Quilates 
+Peso 142.50 Quilates 
 
-Medidas 49 X 26 X 24 Milímetros 
+Medidas 
 
-[https://www.youtube.com/watch?v=g8gZnNCyJC0](https://www.youtube.com/watch?v=g8gZnNCyJC0 "https://www.youtube.com/watch?v=g8gZnNCyJC0")
+Largo 60.25 Milímetros 
+
+Ancho 23.15 X 16.32 Milímetros 
+
+[https://www.youtube.com/watch?v=KoYEU30vruc](https://www.youtube.com/watch?v=KoYEU30vruc "https://www.youtube.com/watch?v=KoYEU30vruc")
 
 ¿Qué significa el Cuarzo Lemuriano Rojo? Pues bien, este cuarzo es considerado la piedra del amor.
 
