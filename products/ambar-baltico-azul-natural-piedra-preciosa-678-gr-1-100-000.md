@@ -2,7 +2,7 @@
 date: 2020-04-28T15:56:50.000+00:00
 category: Semi preciosas
 available: true
-title: Ambar Baltico Azul Natural Piedra Preciosa 678 Gr
+title: Ambar Baltico Azul Natural Piedra Preciosa 678 Gramos
 description: Ambar Baltico Azul 100% Natural
 unit_price: 1.100.000
 images:

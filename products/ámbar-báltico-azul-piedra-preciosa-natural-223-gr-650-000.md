@@ -2,7 +2,7 @@
 date: 2020-04-28T16:14:00.000+00:00
 category: Semi preciosas
 available: true
-title: Ámbar Báltico Azul Piedra Preciosa Natural 223 Gr
+title: Ámbar Báltico Azul Piedra Preciosa Natural 223 Gramos
 description: Ámbar Báltico Azul Piedra Preciosa 100% Natural
 unit_price: '650.000'
 images:

@@ -3,7 +3,7 @@ date: 2020-05-12T16:08:18Z
 category: Semi preciosas
 available: true
 title: 'Cuarzo Rutilo De Oro Piedra Natural 348.80 Quilates '
-unit_price: "$ 350.000"
+unit_price: '350.000'
 description: 'Hermoso Cuarzo Rutilo De Oro 100% Natural '
 cover_img: "/uploads/IMG_0499-1.jpg"
 images:

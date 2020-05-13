@@ -2,7 +2,7 @@
 date: 2020-04-28T16:03:25.000+00:00
 category: Semi preciosas
 available: true
-title: Ambar Báltico Azul Piedra Preciosa Natura 904 Gr
+title: Ambar Báltico Azul Piedra Preciosa Natura 904 Gramos
 description: Ambar Báltico Azul Piedra 100% Natural
 unit_price: 1.500.000
 images:
