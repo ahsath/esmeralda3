@@ -3,7 +3,7 @@ date: 2020-05-13T12:39:00Z
 category: Semi preciosas
 available: true
 title: 'Cuarzo Rutilado Piedra Natural 255 Quilates '
-unit_price: "$ 280.000"
+unit_price: '280.000'
 description: Hermoso Ejemplar de Cuarzo Rutilado 100% Natural
 cover_img: "/uploads/IMG_0647.jpg"
 images:
