@@ -3,7 +3,7 @@ date: 2020-01-26T07:18:10.000+00:00
 category: Piedras preciosas
 available: true
 title: Tanzanita Canutillo Piedra Natural 46.20 Quilates
-unit_price: '900.000'
+unit_price: 1.200.000
 images:
 - "/uploads/IMG_20190913_162927.jpg"
 - "/uploads/IMG_20190913_162906.jpg"
