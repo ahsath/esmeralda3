@@ -1,0 +1,33 @@
+---
+date: 2020-05-17T17:22:33Z
+category: Fósil
+available: true
+title: 'Piedra Preciosa Coral Fosilizado 87.20 Quilates '
+unit_price: '70.000'
+description: 'Coral Fosilizado Piedra Natural  Origen Marruecos '
+cover_img: "/uploads/img_20200128_092735.jpg"
+images:
+- "/uploads/img_20200128_092744.jpg"
+- "/uploads/img_20200128_092730.jpg"
+- "/uploads/img_20200128_092724.jpg"
+
+---
+Coral Fosilizado Piedra Natural 
+
+Origen Marruecos 
+
+Peso 89.20 Quilates
+
+Medidas 43 X 31 X 9 Milímetros 
+
+Uno de los amuletos-protectores que podemos considerar efectivos en magia proceder de la Prehistoria.
+
+Las "amonitas" o "amonoideos" eran pequeños animales animales marinos que tenían un aspecto de pulpos dentro de una concha (que para muchos es una construcción perfecta) y, además, eran grandes depredadores, un peso de su reducido tamaño.
+
+Por eso, desde la Antigüedad, se conserva este fósil como un ejemplo de "ser pequeño no significativo ser insignificante", y así como las amonitas se enfrentan ferozmente a sus grandes enemigos, nosotros también podemos protegernos con esta pieza de los peligros que nos acechan
+
+En muchos países se usan estos fósiles como amuleto protector de todo tipo de enfermedades, costumbre que se remonta a la Inglaterra del siglo XVII. Se cuenta que una abadesa, santa Hilda, quería construir una iglesia en un lugar totalmente infectado de serpientes. Decidida, dio muerte a los ofidios que se convirtieron en piedra. A partir de entonces, en ese país, a los amonites se les suele llamar «serpientes enrolladas», ya que se cree que son las que la santa petrificó. Pero aunque se sabe que un amonite no es una serpiente sino un fósil, estas piedras tienen propiedades mágicas.
+
+Se utilizan como talismanes que confieren a sus poseedores paciencia y dominio sobre situaciones complejas.
+
+Durante muchos siglos, los fósiles molidos se han administrado como medicamentos a los enfermos, no solo en Europa sino también en Asia.
