@@ -2,7 +2,7 @@
 date: 2020-04-28T13:40:33.000+00:00
 category: Semi preciosas
 available: true
-title: Ambar Dominicano Piedra Preciosa  287.75 Quilates
+title: Ambar Dominicano Piedra Preciosa  288 Quilates
 description: Hermoso Ejemplar de Ámbar Natural Dominicano
 unit_price: '180.000'
 images:
@@ -24,6 +24,8 @@ Origen República Dominicana
 Peso 287.75 Quilates
 
 Medidas 51 X 51 X 31 Milímetros
+
+[https://www.youtube.com/watch?v=HXXo3LJCYgM](https://www.youtube.com/watch?v=HXXo3LJCYgM "https://www.youtube.com/watch?v=HXXo3LJCYgM")
 
 Muchos relacionan el ámbar con una piedra preciosa, pero la verdad es que es de origen vegetal: conocidos de la resina fosilizada de los árboles, principalmente del pino. Se da en mayor cantidad en Europa y la hay de diversos colores, amarillentos, anaranjados, rojizos e incluso verde oscuro, que es el más escaso
 

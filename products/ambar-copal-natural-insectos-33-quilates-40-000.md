@@ -17,11 +17,11 @@ cover_img: "/uploads/IMG_0275.jpg"
 ---
 Hermoso Ejemplar de Ámbar Copal
 
-Origen República Dominicana 
+Origen República Dominicana
 
-Peso 33 Quilates 
+Peso 33 Quilates
 
-Largo 25 X 25 X 20 Milímetros 
+Largo 25 X 25 X 20 Milímetros
 
 El ámbar tiene intensas conexiones con la Tierra y es una piedra que asienta las energías superiores.
 
@@ -35,10 +35,10 @@ Espiritualmente, el ámbar ayuda a ser más altruista a la vez que aporta sabidu
 
 A nivel curativo, el ámbar es un poderoso limpiador y sanador de los chacras.
 
-Llévala puesta durante largo periodos de tiempo, especialmente en la muñeca o en la garganta.
+Llévala puesta durante el largo período de tiempo, especialmente en la muñeca o en la garganta.
 
-El ámbar no es un mineral propiamente dicho. Se trata de una resina fosilizada con, al menos, 100.000 años, aunque la mayoría de piezas suelen tener millones de años. 
+El ámbar no es un mineral propiamente dicho. Se trata de una resina fosilizada con, al menos, 100.000 años, aunque la mayoría de las piezas suelen tener millones de años.
 
-El ámbar está clasificado como un compendio orgánico. Encontramos multitud de yacimientos de ámbar por el mundo. Unos explotados comercialmente y, otros de muy especial interés por sus aportaciones científicas por la cantidad de restos fósiles que se encuentran en su interior.
+El ámbar está clasificado como un compendio orgánico. Encontramos multitud de yacimientos de ámbar por el mundo. Unos explotados comercialmente y otros de muy especial interés por sus aportaciones científicas por la cantidad de restos fósiles que se encuentran en su interior.
 
 El ámbar suele ser resina de coníferas (Pinus succinifera) a partir de “heridas” producidas en los árboles.
