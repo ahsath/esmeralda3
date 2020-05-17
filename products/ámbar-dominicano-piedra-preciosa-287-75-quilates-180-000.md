@@ -1,6 +1,6 @@
 ---
 date: 2020-04-28T13:40:33.000+00:00
-category: Semi preciosas
+category: Fósil
 available: true
 title: Ambar Dominicano Piedra Preciosa  288 Quilates
 description: Hermoso Ejemplar de Ámbar Natural Dominicano

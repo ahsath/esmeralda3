@@ -1,6 +1,6 @@
 ---
 date: 2020-04-28T15:34:25.000+00:00
-category: Semi preciosas
+category: Fósil
 available: true
 title: Ambar Copal Natural 285 Gramos
 description: Hermoso Ejemplar de Ámbar Colombiano

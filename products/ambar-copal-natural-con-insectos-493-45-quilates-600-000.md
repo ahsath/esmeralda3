@@ -1,6 +1,6 @@
 ---
 date: 2020-04-28T15:18:15.000+00:00
-category: Semi preciosas
+category: Fósil
 available: true
 title: Ambar Copal Natural Con Insectos 494 Quilates
 description: Hermoso Ejemplar de Ámbar con varios animales

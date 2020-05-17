@@ -1,6 +1,6 @@
 ---
 date: 2020-04-28T15:03:07.000+00:00
-category: Semi preciosas
+category: Fósil
 available: true
 title: Ambar Copal Natural Insectos 32 Quilates
 description: Ambar Copal 100% Natural Con Insectos

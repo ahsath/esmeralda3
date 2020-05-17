@@ -1,6 +1,6 @@
 ---
 date: 2020-04-28T13:36:03.000+00:00
-category: Semi preciosas
+category: Fósil
 available: true
 title: Ambar Piedra Preciosa 158.65 Quilates
 description: Copal Ambar Piedra 100% Natural
