@@ -1,6 +1,6 @@
 ---
 date: 2020-04-28T12:49:15.000+00:00
-category: Piedras preciosas
+category: Raras
 available: true
 title: Moscovita Piedra Natural 1884 Gramos
 description: 'Moscovita Piedra 100% Natural Pieza de Colección '
@@ -28,11 +28,13 @@ Medidas
 
 Medidas 13 X 13 X 9 Centímetros
 
+[https://www.youtube.com/watch?v=JhxahdvMexM](https://www.youtube.com/watch?v=JhxahdvMexM "https://www.youtube.com/watch?v=JhxahdvMexM")
+
 Moscovita
 
 Ayuda a resolver problemas, estimula la mente y el cerebro
 
-Moscovita estimula la agilidad de pensamiento, y fomenta la resolución de problemas utilizando información del pasado. Te puedo ayudar si estás estudiando ya que te permite usar todas las partes de tu mente. Esta piedra estimulante es una mejor capacidad de resolución de problemas en todos.
+Moscovita estimula la agilidad de pensamiento y fomenta la resolución de problemas utilizando información del pasado. Te puedo ayudar si estás estudiando ya que te permite usar todas las partes de tu mente. Esta piedra estimulante es una mejor capacidad de resolución de problemas en todos.
 
 La vibración de estos cristales te anima a dar más atención a tu lado espiritual, abriéndote a una conciencia de tu ser superior. Tiene fuertes propiedades metafísicas que te ayudarán si tienes efectos secundarios por la activación de los poderes psíquicos.
 
