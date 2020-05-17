@@ -20,9 +20,11 @@ Hermoso Ejemplar de Ámbar Copal
 
 Origen República Dominicana
 
-Peso 32 Quilates 
+Peso 32 Quilates
 
-Largo 38 X 22 X 12 Milímetros 
+Largo 38 X 22 X 12 Milímetros
+
+[https://www.youtube.com/watch?v=V-jHRRuCdYk](https://www.youtube.com/watch?v=V-jHRRuCdYk "https://www.youtube.com/watch?v=V-jHRRuCdYk")
 
 El ámbar tiene intensas conexiones con la Tierra y es una piedra que asienta las energías superiores.
 
