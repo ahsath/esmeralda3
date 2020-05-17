@@ -1,6 +1,6 @@
 ---
 date: 2020-04-28T16:03:25.000+00:00
-category: Semi preciosas
+category: Fósil
 available: true
 title: Ambar Báltico Azul Piedra Preciosa Natura 904 Gramos
 description: Ambar Báltico Azul Piedra 100% Natural

@@ -1,6 +1,6 @@
 ---
 date: 2020-04-28T14:28:23.000+00:00
-category: Piedras preciosas
+category: Fósil
 available: true
 title: Ambar Copal Natural Insectos 19 Quilates
 description: Ambar Copal Natural Insectos  100% Natural
