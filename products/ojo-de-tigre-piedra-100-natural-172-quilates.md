@@ -1,5 +1,5 @@
 ---
-date: 2020-05-13T19:40:13Z
+date: 2020-05-13T19:40:13.000+00:00
 category: Semi preciosas
 available: true
 title: 'Ojo De Tigre Piedra 100% Natural  172 Quilates '
@@ -13,13 +13,15 @@ images:
 - "/uploads/IMG_20200120_080718.jpg"
 
 ---
-Ojo de Tigre Piedra 100% Natural con Ematita 
+Ojo de Tigre Piedra 100% Natural con Ematita
 
-Origen Namibia 
+Origen Namibia
 
 Peso 172 Quilates
 
 Medidas 43 X 23 X 20 Milímetros
+
+[https://www.youtube.com/watch?v=hpfQ3rZg81Q](https://www.youtube.com/watch?v=hpfQ3rZg81Q "https://www.youtube.com/watch?v=hpfQ3rZg81Q")
 
 Combina la energía de la Tierra con las energías del Sol para crear un estado vibratorio elevado a la vez que atrae las energías espirituales a la Tierra.
 
