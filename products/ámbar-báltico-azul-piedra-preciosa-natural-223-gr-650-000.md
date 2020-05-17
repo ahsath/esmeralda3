@@ -18,15 +18,17 @@ payu_purchase_link: ''
 cover_img: "/uploads/IMG_0337.jpg"
 
 ---
-Hermoso Ejemplar de Ámbar Báltico Azul 
+Hermoso Ejemplar de Ámbar Báltico Azul
 
 Origen Indonesia
 
-Peso 223 Gramos 
+Peso 223 Gramos
 
-Medidas 
+Medidas
 
-Largo 18 X 6 X 5 Centímetros 
+Largo 18 X 6 X 5 Centímetros
+
+[https://www.youtube.com/watch?v=3bMaT-Hz29Q](https://www.youtube.com/watch?v=3bMaT-Hz29Q "https://www.youtube.com/watch?v=3bMaT-Hz29Q")
 
 El ámbar tiene intensas conexiones con la Tierra y es una piedra que asienta las energías superiores.
 
@@ -40,4 +42,4 @@ Espiritualmente, el ámbar ayuda a ser más altruista a la vez que aporta sabidu
 
 A nivel curativo, el ámbar es un poderoso limpiador y sanador de los chacras.
 
-Llévala puesta durante largo periodos de tiempo, especialmente en la muñeca o en la garganta.
+Llévala puesta durante el largo período de tiempo, especialmente en la muñeca o en la garganta.

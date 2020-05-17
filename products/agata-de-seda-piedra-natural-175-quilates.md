@@ -1,6 +1,6 @@
 ---
-date: 2020-05-13T21:42:55Z
-category: Piedras preciosas
+date: 2020-05-13T21:42:55.000+00:00
+category: Semi preciosas
 available: true
 title: 'Agata De Seda Piedra Natural 175 Quilates '
 unit_price: '40.000'

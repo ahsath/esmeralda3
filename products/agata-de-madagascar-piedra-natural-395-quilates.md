@@ -1,6 +1,6 @@
 ---
-date: 2020-05-13T21:08:59Z
-category: Piedras preciosas
+date: 2020-05-13T21:08:59.000+00:00
+category: Semi preciosas
 available: true
 title: 'Agata De Madagascar Piedra Natural 395 Quilates '
 unit_price: '90.000'

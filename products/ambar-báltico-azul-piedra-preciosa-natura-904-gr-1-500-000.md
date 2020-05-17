@@ -25,6 +25,8 @@ Medidas
 
 Largo 16 X 16 X 8 Centímetros
 
+[https://www.youtube.com/watch?v=WqU9tZjNeQE](https://www.youtube.com/watch?v=WqU9tZjNeQE "https://www.youtube.com/watch?v=WqU9tZjNeQE")
+
 El ámbar tiene intensas conexiones con la Tierra y es una piedra que asienta las energías superiores.
 
 El ámbar es una poderosa sanadora y limpiadora que aleja las enfermedades del cuerpo así como limpia el entorno y los chacras. Absorbe las energías negativas y las transmuta en positivas.
