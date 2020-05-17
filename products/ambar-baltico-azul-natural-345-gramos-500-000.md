@@ -17,19 +17,21 @@ payu_purchase_link: ''
 cover_img: "/uploads/IMG_0325.jpg"
 
 ---
-Hermoso Ejemplar de Ámbar Báltico Azul 
+Hermoso Ejemplar de Ámbar Báltico Azul
 
 Origen Indonesia
 
-Peso 345 Gramos 
+Peso 345 Gramos
 
-Medidas 
+Medidas
 
-Largo 13 X 9 X 6 Centímetros 
+Largo 13 X 9 X 6 Centímetros
 
-Propiedades  del  ámbar báltico
+[https://www.youtube.com/watch?v=rZyEAzX-ZvU](https://www.youtube.com/watch?v=rZyEAzX-ZvU "https://www.youtube.com/watch?v=rZyEAzX-ZvU")
 
-Al Ámbar se le han reconocido propiedades mágicas y sanadoras, desde hace mucho tiempo, confundida con una joya, es suave y cálida al tacto y se han encontrado muchas piezas de ámbar con insectos , por ende siempre se le ha atribuido la vida en el tiempo.
+Propiedades del ámbar báltico
+
+Al Ámbar se le han reconocido propiedades mágicas y sanadoras, desde hace mucho tiempo, confundida con una joya, es suave y cálida al tacto y se han encontrado muchas piezas de ámbar con insectos, por siempre siempre se le ha atribuido la vida en el tiempo .
 
 Es un analgésico natural.
 
