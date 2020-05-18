@@ -2,7 +2,7 @@
 date: 2020-05-10T17:12:23.000+00:00
 category: Piedras preciosas
 available: true
-title: 'Meteorito Cristal Negro Piedra Natural '
+title: 'Meteorito Cristal Negro 19.72 Piedra Natural '
 unit_price: '500.000'
 description: 'Hermoso Ejemplar de Cristal Negro Tectita este es un material extraterrestre
   proveniente del planeta marte '
@@ -23,7 +23,7 @@ Medidas 22.50 X 8.50 Milímetros
 
 Propiedades de los meteoritos
 
-[https://www.youtube.com/watch?v=Njh30nF0YbY](https://www.youtube.com/watch?v=Njh30nF0YbY "https://www.youtube.com/watch?v=Njh30nF0YbY")
+https://www.youtube.com/watch?v=Nj h30nF0YbY
 
 Los meteoritos como es bien sabido son minerales originales del espacio. Pueden estar compuestos de diferentes minerales y estructuras internas. Pero lo que tienen son características comunes que es la que los hacen unos minerales especialmente apreciados en gemoterapia, son una fusión de las energías del espacio con las tierras.
 
