@@ -1,9 +1,9 @@
 ---
-date: 2020-05-12T16:26:42Z
+date: 2020-05-12T16:26:42.000+00:00
 category: Semi preciosas
 available: true
-title: 'Cuarzo Lemuriano Amarillo Piedra Natural 186.20 Quilates '
-unit_price: "$ 220.000"
+title: Cuarzo Lemuriano Amarillo Piedra Natural 186.20 Quilates
+unit_price: '220.000'
 description: Cuarzo Semilla Lemuriana Piedra 100% Natural
 cover_img: "/uploads/IMG_0521.jpg"
 images:
@@ -13,19 +13,19 @@ images:
 - "/uploads/IMG_0518.jpg"
 
 ---
-Cuarzo Semilla Lemuriana 
+Cuarzo Semilla Lemuriana
 
-Origen Provincia de Alicante España 
+Origen Provincia de Alicante España
 
-Peso 186.20 Quilates 
+Peso 186.20 Quilates
 
-Medidas 
+Medidas
 
-Diámetro 117 X 19 X 14 Milímetros 
+Diámetro 117 X 19 X 14 Milímetros
 
 [https://www.youtube.com/watch?v=c5sJm0ia2KM](https://www.youtube.com/watch?v=c5sJm0ia2KM "https://www.youtube.com/watch?v=c5sJm0ia2KM")
 
-Tal vez te estés preguntando ¿Que significa el Cuarzo Lemuriano Amarillo Pues, este cuarzo es considerado la piedra del amor.
+Tal vez te tienes preguntando ¿Qué significa el Cuarzo Lemuriano Amarillo? Pues bien, este cuarzo es considerado la piedra del amor.
 
 Este mineral Amarillento es un símbolo duradero de amor y cariño, trae amistad duradera y garantiza la fidelidad de quien amas. Cuando se utiliza esta piedra de cuarzo roja se usa para aliviar las emociones negativas y fortalecer las relaciones entre amigos.
 
