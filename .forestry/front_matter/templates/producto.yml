@@ -70,6 +70,7 @@ fields:
   description: Indica si el producto esta disponible
   default: true
 pages:
+- products/agata-de-fuego.md
 - products/agata-de-madagascar-piedra-natural-305-quilates.md
 - products/agata-de-madagascar-piedra-natural-395-quilates.md
 - products/agata-de-madagascar-piedra-natural-465-quilates.md
