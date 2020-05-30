@@ -7,6 +7,12 @@ unit_price: '700.000'
 description: 'Ágata de fuego Origen mexicano '
 cover_img: "/uploads/img_20200528_093105_507.jpg"
 images:
+- "/uploads/img_20200527_175759.jpg"
+- "/uploads/img_20200527_175742.jpg"
+- "/uploads/img_20200527_175732.jpg"
+- "/uploads/img_20200527_170925.jpg"
+- "/uploads/img_20200527_170924.jpg"
+- "/uploads/img_20200527_170837.jpg"
 - "/uploads/img_20200528_093105_503.jpg"
 - "/uploads/img_20200528_093105_505.jpg"
 
