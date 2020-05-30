@@ -2,7 +2,7 @@
 date: 2020-05-28T19:46:20Z
 category: Piedras preciosas
 available: true
-title: 'Ágata de fuego '
+title: Agata De Fuego Piedra Natural 18.95 Quilates
 unit_price: '700.000'
 description: 'Ágata de fuego Origen mexicano '
 cover_img: "/uploads/img_20200528_093105_507.jpg"
