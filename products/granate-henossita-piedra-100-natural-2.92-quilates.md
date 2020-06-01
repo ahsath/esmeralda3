@@ -1,30 +1,29 @@
 ---
-date: 2020-06-01T10:44:26Z
+date: 2020-06-01T10:51:42Z
 category: Semi preciosas
 available: true
-title: 'Granate Henossita Piedra 100% Natural 2.06 Quilates '
-unit_price: '150.000'
+title: 'Granate Henossita Piedra 100% Natural 2.92 Quilates  '
+unit_price: '200.000'
 description: 'Hermoso Granate Natural 100% Natural '
-cover_img: "/uploads/img_20200527_183112.jpg"
+cover_img: "/uploads/img_20200527_183309.jpg"
 images:
+- "/uploads/img_20200527_183241.jpg"
 - "/uploads/img_20200527_183129.jpg"
 - "/uploads/img_20200527_183112.jpg"
-- "/uploads/img_20200527_183105.jpg"
-- "/uploads/img_20200527_183035.jpg"
 
 ---
-Hermoso Granate Natural 100% Natural
+Hermoso Granate Natural 100% Natural 
 
-Origen Madagascar
+Origen Madagascar 
 
-Talla Diamante
+Talla Diamante  
 
-Peso 2,06 quilates
+Peso 2,92 quilates
 
-Medidas 8,14 X 9,92 Milímetros
+Medidas 9.02 X 4,83 Milímetros 
 
-[https://youtu.be/-QK0V-PfyKA](https://youtu.be/-QK0V-PfyKA "https://youtu.be/-QK0V-PfyKA")
+[https://youtu.be/dwEvT2lT7N4](https://youtu.be/dwEvT2lT7N4 "https://youtu.be/dwEvT2lT7N4")
 
-CONTAMOS CON TALLADOR Y JOYERO
+CONTAMOS CON TALLADOR Y JOYERO 
 
 El granate es una piedra muy energizante y regeneradora. Limpia y energetiza los chacras. Inspira amor y devoción, muy útil en momentos de crisis personal, ya que es muy práctico cuando parece no haber salido. Fortalece, activa y robustece el instinto de supervivencia, aportando coraje y esperanza. Mentalmente ayuda a abandonar ideas obsoletas y viejas a la vez que, emocionalmente, te libera de tabúes y otorga confianza en uno mismo. Un nivel curativo, es un cristal muy útil junto a otros, ya que los activa y amplía su efecto. Limpia también las energías negativas de los chacras. Colócala especialmente en los lóbulos de las orejas, en los dedos o sobre el corazón, además del lugar más adecuado sobre la piel. Útil en el tercer ojo para recordar vidas pasadas. El granate tiene diversas variedades. Citamos varias propiedades adicionales de varios de ellos: -Almandino. Es un granate muy regenerador que aporta fuerza y ​​vigor. Abre la mente superior y abre el camino entre las cámaras básicas y el coronario. -Grosularia. Útil a tener en momentos difíciles. Enseña a mantenerse relajado. -Hesonita. Elimina los sentimientos de culpabilidad e inferioridad. Ayuda a buscar nuevos desafíos vitales además de abrir la intuición. -Piropo. Otorga vitalidad y carisma promoviendo una excelente calidad de vida. Unifica las fuerzas creativas y protege los chacras base y coronario. -Espesartina. Imparte la voluntad de ayudar a los demás y fortalece el corazón. Potencia los procesos analíticos y la mente racional. -Uvarovita. Vincula el alma con su naturaleza universal y estimula el chacra corazón a la vez que potencia las relaciones espirituales. -Almandino. Es un granate muy regenerador que aporta fuerza y ​​vigor. Abre la mente superior y abre el camino entre las cámaras básicas y el coronario. -Grosularia. Útil a tener en momentos difíciles. Enseña a mantenerse relajado. -Hesonita. Elimina los sentimientos de culpabilidad e inferioridad. Ayuda a buscar nuevos desafíos vitales además de abrir la intuición. -Piropo. Otorga vitalidad y carisma promoviendo una excelente calidad de vida. Unifica las fuerzas creativas y protege los chacras base y coronario. -Espesartina. Imparte la voluntad de ayudar a los demás y fortalece el corazón. Potencia los procesos analíticos y la mente racional. -Uvarovita. Vincula el alma con su naturaleza universal y estimula el chacra corazón a la vez que potencia las relaciones espirituales. -Almandino. Es un granate muy regenerador que aporta fuerza y ​​vigor. Abre la mente superior y abre el camino entre las cámaras básicas y el coronario. -Grosularia. Útil a tener en momentos difíciles. Enseña a mantenerse relajado. -Hesonita. Elimina los sentimientos de culpabilidad e inferioridad. Ayuda a buscar nuevos desafíos vitales además de abrir la intuición. -Piropo. Otorga vitalidad y carisma promoviendo una excelente calidad de vida. Unifica las fuerzas creativas y protege los chacras base y coronario. -Espesartina. Imparte la voluntad de ayudar a los demás y fortalece el corazón. Potencia los procesos analíticos y la mente racional. -Uvarovita. Vincula el alma con su naturaleza universal y estimula el chacra corazón a la vez que potencia las relaciones espirituales. Abre la mente superior y abre el camino entre las cámaras básicas y el coronario. -Grosularia. Útil a tener en momentos difíciles. Enseña a mantenerse relajado. -Hesonita. Elimina los sentimientos de culpabilidad e inferioridad. Ayuda a buscar nuevos desafíos vitales además de abrir la intuición. -Piropo. Otorga vitalidad y carisma promoviendo una excelente calidad de vida. Unifica las fuerzas creativas y protege los chacras base y coronario. -Espesartina. Imparte la voluntad de ayudar a los demás y fortalece el corazón. Potencia los procesos analíticos y la mente racional. -Uvarovita. Vincula el alma con su naturaleza universal y estimula el chacra corazón a la vez que potencia las relaciones espirituales. Abre la mente superior y abre el camino entre las cámaras básicas y el coronario. -Grosularia. Útil a tener en momentos difíciles. Enseña a mantenerse relajado. -Hesonita. Elimina los sentimientos de culpabilidad e inferioridad. Ayuda a buscar nuevos desafíos vitales además de abrir la intuición. -Piropo. Otorga vitalidad y carisma promoviendo una excelente calidad de vida. Unifica las fuerzas creativas y protege los chacras base y coronario. -Espesartina. Imparte la voluntad de ayudar a los demás y fortalece el corazón. Potencia los procesos analíticos y la mente racional. -Uvarovita. Vincula el alma con su naturaleza universal y estimula el chacra corazón a la vez que potencia las relaciones espirituales. -Hesonita. Elimina los sentimientos de culpabilidad e inferioridad. Ayuda a buscar nuevos desafíos vitales además de abrir la intuición. -Piropo. Otorga vitalidad y carisma promoviendo una excelente calidad de vida. Unifica las fuerzas creativas y protege los chacras base y coronario. -Espesartina. Imparte la voluntad de ayudar a los demás y fortalece el corazón. Potencia los procesos analíticos y la mente racional. -Uvarovita. Vincula el alma con su naturaleza universal y estimula el chacra corazón a la vez que potencia las relaciones espirituales. -Hesonita. Elimina los sentimientos de culpabilidad e inferioridad. Ayuda a buscar nuevos desafíos vitales además de abrir la intuición. -Piropo. Otorga vitalidad y carisma promoviendo una excelente calidad de vida. Unifica las fuerzas creativas y protege los chacras base y coronario. -Espesartina. Imparte la voluntad de ayudar a los demás y fortalece el corazón. Potencia los procesos analíticos y la mente racional. -Uvarovita. Vincula el alma con su naturaleza universal y estimula el chacra corazón a la vez que potencia las relaciones espirituales. Imparte la voluntad de ayudar a los demás y fortalece el corazón. Potencia los procesos analíticos y la mente racional. -Uvarovita. Vincula el alma con su naturaleza universal y estimula el chacra corazón a la vez que potencia las relaciones espirituales. Imparte la voluntad de ayudar a los demás y fortalece el corazón. Potencia los procesos analíticos y la mente racional. -Uvarovita. Vincula el alma con su naturaleza universal y estimula el chacra corazón a la vez que potencia las relaciones espirituales.
