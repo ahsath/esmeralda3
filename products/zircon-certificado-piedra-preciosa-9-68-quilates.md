@@ -3,7 +3,7 @@ date: 2020-05-31T15:23:30Z
 category: Piedras preciosas
 available: true
 title: 'Zircon Certificado Piedra Preciosa 9,68 Quilates '
-unit_price: '450.000 '
+unit_price: '350.000 '
 description: 'Hermoso Ejemplar de Zircon Azul Natural con Certificado '
 cover_img: "/uploads/img_20200528_044458.jpg"
 images:
