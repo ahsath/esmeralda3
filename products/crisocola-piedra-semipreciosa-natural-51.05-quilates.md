@@ -4,7 +4,7 @@ category: Semi preciosas
 available: true
 title: Crisocola Piedra Semipreciosa Natural  51.05 Quilates
 unit_price: '90.000'
-description: Hermoso Ejemplar de Amatista Herkimer
+description: Ejemplar de de Crisocola 100% Natural
 cover_img: "/uploads/img_20200605_032906.jpg"
 images:
 - "/uploads/img_20200605_032904.jpg"
