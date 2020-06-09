@@ -1,5 +1,6 @@
 <template>
   <g-link
+    v-if="product.cover_img.src"
     :to="product.path"
     class="is-block mx-w-86 rounded-lg shadow hover:shadow-xl transition-all duration-350 ease-out"
     target="__self"

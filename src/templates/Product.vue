@@ -1,6 +1,6 @@
 <template>
   <app-shell>
-    <main>
+    <main v-if="$page.product.images.length > 0">
       <v-viewer class="has-background-black-bis">
         <flkty-carrousel style="margin: 0 2rem">
           <g-image
@@ -125,7 +125,7 @@ export default {
         },
         {
           property: "og:image",
-          content: `${this.$page.metadata.siteUrl}${this.$page.product.images[0].src}`
+          content: `${this.$page.metadata.siteUrl}${this.$page.product.images.length > 0 ? this.$page.product.images[0].src : ''}`
         },
         { property: "og:type", content: "website" },
         { property: "og:locale", content: "es_CO" },
@@ -145,7 +145,7 @@ export default {
         },
         {
           property: "twitter:image",
-          content: `${this.$page.metadata.siteUrl}${this.$page.product.images[0].src}`
+          content: `${this.$page.metadata.siteUrl}${this.$page.product.images.length > 0 ? this.$page.product.images[0].src : ''}`
         }
       ]
     };

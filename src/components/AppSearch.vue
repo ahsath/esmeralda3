@@ -12,7 +12,7 @@
       open-on-focus
     >
       <template #default="{ option }">
-        <g-link :to="option.node.path">
+        <g-link v-if="option.node.cover_img.src" :to="option.node.path">
           <article class="media">
             <figure class="media-left">
               <g-image :src="option.node.cover_img" :alt="option.node.title" class="is-block" />
