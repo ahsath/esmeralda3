@@ -1,8 +1,8 @@
 ---
-date: 2020-05-10T16:49:21Z
+date: 2020-05-10T16:49:21.000+00:00
 category: Semi preciosas
 available: true
-title: 'Henossita Natural Piedra Preciosa 1.85 Quilates '
+title: 'Granate Henossita 100% Natural 1.85 Quilates '
 unit_price: '150.000'
 description: 'Hermosa Piedra Natural de Henossita limpia transparente sin fisuras
   ni impurezas '

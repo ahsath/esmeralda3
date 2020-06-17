@@ -2,7 +2,7 @@
 date: 2020-04-27T20:09:23.000+00:00
 category: Piedras preciosas
 available: true
-title: Jade Nefrita Piedra Natural 100% 1178 Gramos
+title: Jade Nefrita 100% Natural 1178 Gramos
 description: Jade Nefrita Piedra Natural 100% de Pakistán
 unit_price: 1.500.000
 images:
