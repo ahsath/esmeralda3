@@ -2,7 +2,7 @@
 date: 2020-04-28T13:29:46.000+00:00
 category: Semi preciosas
 available: true
-title: Malaquita Piedra Preciosa 664 Gramos
+title: Malaquita 100% Natural 664 Gramos
 description: Hermosa Malaquita Piedra 100% Natural
 unit_price: '900.000'
 images:
@@ -29,4 +29,4 @@ Psicológicamente es una piedra de transformación, muestra todo lo que impide t
 
 Mentalmente te ayuda a ir al centro del problema con intuición y comprensión. Fortalece la capacidad de absorción y transformación de la información.
 
-Puedes usarla de diversas formas. Sobre el plexo solar para equilibrar las cámaras corazón y ombligo y absorbedor de energía negativa. Como elixir tiene que tener cuidado en utilizar rodados y hacerlo de forma indirecta y, para ayudar a la curación, llévala en la mano izquierda o sobre el tercer ojo.
+Puedes usarla de diversas formas. Sobre el plexo solar para equilibrar las cámaras corazón y ombligo y absorbedor de energía negativa. Como elixir tiene que tener cuidado en utilizar rodados y hacer de forma indirecta y, para ayudar a la curación, llévala en la mano izquierda o sobre el tercer ojo.

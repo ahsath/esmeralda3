@@ -1,8 +1,8 @@
 ---
-date: 2020-05-12T07:41:37Z
+date: 2020-05-12T07:41:37.000+00:00
 category: Piedras preciosas
 available: true
-title: Lote De 31 Diamantes 1.23 Quilates  Piedra 100% Natural
+title: " Diamantes Lote De 31 Piedras 100% Natural 1.23 Quilates "
 unit_price: 1.200.000
 description: Lote de 31 Diamantes de Tallas Variadas
 cover_img: "/uploads/IMG_20200321_092133.jpg"

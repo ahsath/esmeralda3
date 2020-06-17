@@ -2,7 +2,7 @@
 date: 2020-04-27T20:41:09.000+00:00
 category: Piedras preciosas
 available: true
-title: Lapislázuli Piedra 100% Natural 1180 Gramos
+title: Lapislázuli 100% Natural 1180 Gramos
 description: Hermoso Ejemplar de Lapislázuli Piedra 100% Natural
 unit_price: '900.000'
 images:

@@ -1,10 +1,10 @@
 ---
-date: 2020-06-08T16:30:41Z
+date: 2020-06-08T16:30:41.000+00:00
 category: Semi preciosas
 available: true
-title: " Malaquita Piedra 100% Natural 51 Quilates "
+title: " Malaquita 100% Natural 51 Quilates "
 unit_price: '150.000'
-description: 'Malaquita Piedra 100% Natural '
+description: Malaquita 100% Natural 51 Quilates
 cover_img: "/uploads/img_20200605_033350_1.jpg"
 images:
 - "/uploads/img_20200605_033350.jpg"

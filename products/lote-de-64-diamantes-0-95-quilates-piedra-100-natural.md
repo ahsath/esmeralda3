@@ -1,8 +1,8 @@
 ---
-date: 2020-05-12T07:52:56Z
+date: 2020-05-12T07:52:56.000+00:00
 category: Piedras preciosas
 available: true
-title: Lote De 64 Diamantes 0.95 Quilates Piedra 100% Natural
+title: " Diamantes Lote De 64 Piedras 100% Natural 0.95 Quilates"
 unit_price: "$ 1.100.000"
 description: Lote de 64 Diamantes de Tallas Variadas
 cover_img: "/uploads/IMG_20200321_100741.jpg"

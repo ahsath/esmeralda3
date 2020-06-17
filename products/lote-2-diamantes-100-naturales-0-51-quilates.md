@@ -1,8 +1,8 @@
 ---
-date: 2020-05-12T07:59:37Z
+date: 2020-05-12T07:59:37.000+00:00
 category: Piedras preciosas
 available: true
-title: Lote 2 Diamantes 100% Naturales 0.51 Quilates
+title: " Diamantes Lote De 2 Piedras 100% Natural 0.51 Quilates"
 unit_price: "$ 2.800.000"
 description: Lote 2 Diamantes 100% Naturales 0.51 Quilates
 cover_img: "/uploads/40775e1d-0d12-4d1e-a958-9bb178260b1a.jpg"

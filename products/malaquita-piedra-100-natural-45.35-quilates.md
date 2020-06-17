@@ -1,8 +1,8 @@
 ---
-date: 2020-06-08T15:24:21Z
+date: 2020-06-08T15:24:21.000+00:00
 category: Piedras preciosas
 available: true
-title: " Malaquita Piedra 100% Natural 45.35 Quilates "
+title: " Malaquita  100% Natural 45.35 Quilates "
 unit_price: '130.000'
 description: 'Malaquita Piedra 100% Natural '
 cover_img: "/uploads/669ac2ab-9765-4749-9fd3-e87d35b410b6.jpg"
