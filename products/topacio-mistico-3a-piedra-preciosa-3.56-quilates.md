@@ -1,8 +1,8 @@
 ---
-date: 2020-06-01T12:03:04Z
+date: 2020-06-01T12:03:04.000+00:00
 category: Piedras preciosas
 available: true
-title: 'Topacio Místico 3a Piedra Preciosa 3.56 Quilates '
+title: 'Topacio Místico 3 AAA  3.56 Quilates '
 unit_price: '200.000'
 description: Hermoso Lote de Topacio Místico Natural Calidad AAA
 cover_img: "/uploads/1-1.jpg"

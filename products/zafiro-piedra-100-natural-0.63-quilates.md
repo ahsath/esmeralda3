@@ -1,8 +1,8 @@
 ---
-date: 2020-05-18T01:12:19Z
+date: 2020-05-18T01:12:19.000+00:00
 category: Piedras preciosas
 available: true
-title: Zafiro Piedra 100% Natural 0.63 Quilates
+title: Zafiro100% Natural 0.63 Quilates
 unit_price: '250.000'
 description: Zafiro Piedra 100% Natural
 cover_img: "/uploads/img_20200331_044605.jpg"

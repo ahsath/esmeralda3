@@ -1,8 +1,8 @@
 ---
-date: 2020-05-18T01:30:29Z
+date: 2020-05-18T01:30:29.000+00:00
 category: Piedras preciosas
 available: true
-title: Zafiro Corindon Piedra 100% Natural 0.75 Quilates
+title: Zafiro Corindon 100% Natural 0.75 Quilates
 unit_price: '300.000'
 description: Zafiro Piedra 100% Natural
 cover_img: "/uploads/img_20200331_050634.jpg"

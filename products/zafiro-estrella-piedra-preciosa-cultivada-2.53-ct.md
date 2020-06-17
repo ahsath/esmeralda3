@@ -1,8 +1,8 @@
 ---
-date: 2020-05-31T14:09:40Z
+date: 2020-05-31T14:09:40.000+00:00
 category: Piedras preciosas
 available: true
-title: 'Zafiro Estrella Piedra Preciosa Cultivada 2.53 Ct '
+title: 'Zafiro Estrella Cultivado 2.53 Quilates '
 unit_price: '150.000'
 description: 'Hermoso Zafiro de Cultivo '
 cover_img: "/uploads/img_20200528_065835.jpg"
