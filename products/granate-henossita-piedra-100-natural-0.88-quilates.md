@@ -1,8 +1,8 @@
 ---
-date: 2020-06-01T11:25:28Z
+date: 2020-06-01T11:25:28.000+00:00
 category: Piedras preciosas
 available: true
-title: 'Granate Henossita Piedra 100% Natural 0.88 Quilates '
+title: 'Granate Henossita 100% Natural 0.88 Quilates '
 unit_price: '80.000'
 description: 'Hermoso Granate Natural 100% Natural '
 cover_img: "/uploads/img_20200527_185421.jpg"
