@@ -1,8 +1,8 @@
 ---
 date: 2020-05-10T17:12:23.000+00:00
-category: Piedras preciosas
+category: Meteoritos
 available: true
-title: 'Meteorito Cristal Negro 19.72 Piedra Natural '
+title: Tectita Cristal Negro 100% Natural 19.72 Quilates
 unit_price: '500.000'
 description: 'Hermoso Ejemplar de Cristal Negro Tectita este es un material extraterrestre
   proveniente del planeta marte '

@@ -1,8 +1,8 @@
 ---
-date: 2020-06-07T15:54:18Z
+date: 2020-06-07T15:54:18.000+00:00
 category: Meteoritos
 available: true
-title: 'Meteorito Metálico 19 Quilates  '
+title: 'Raro Meteorito Metálico 19 Quilates  '
 unit_price: '200.000'
 description: 'Raro Meteorito Metálico  '
 cover_img: "/uploads/img_20200605_022247.jpg"

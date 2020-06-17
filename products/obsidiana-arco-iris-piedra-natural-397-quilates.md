@@ -1,8 +1,8 @@
 ---
-date: 2020-05-17T17:22:33Z
+date: 2020-05-17T17:22:33.000+00:00
 category: Semi preciosas
 available: true
-title: 'Obsidiana Arco Iris Piedra Natural 397 Quilates '
+title: 'Obsidiana Arco Iris 100% Natural 397 Quilates '
 unit_price: '110.000'
 description: Hermosa Esfera de Obsidiana Arco Iris 100% Natural
 cover_img: "/uploads/img_20200128_115611.jpg"

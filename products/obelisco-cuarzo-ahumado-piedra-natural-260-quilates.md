@@ -1,8 +1,8 @@
 ---
-date: 2020-05-13T18:24:48Z
+date: 2020-05-13T18:24:48.000+00:00
 category: Semi preciosas
 available: true
-title: 'Obelisco Cuarzo Ahumado Piedra Natural 260 Quilates '
+title: 'Obelisco Cuarzo Ahumado 100% Natural 260 Quilates '
 unit_price: '70.000'
 description: Obelisco De Cuarzo Ahumado 100% Natural
 cover_img: "/uploads/IMG_0993.jpg"

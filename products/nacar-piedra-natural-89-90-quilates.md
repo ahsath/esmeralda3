@@ -2,7 +2,7 @@
 date: 2020-01-26T07:31:46.000+00:00
 category: Semi preciosas
 available: true
-title: Nacar Piedra Natural 89.90 Quilates
+title: Nacar 100% Natural 89.90 Quilates
 unit_price: '30.000'
 images:
 - "/uploads/IMG_20190913_160708.jpg"

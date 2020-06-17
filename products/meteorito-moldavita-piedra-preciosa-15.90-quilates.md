@@ -1,8 +1,8 @@
 ---
-date: 2020-06-07T13:08:11Z
+date: 2020-06-07T13:08:11.000+00:00
 category: Meteoritos
 available: true
-title: 'Meteorito Moldavita Piedra Preciosa 15.90 Quilates '
+title: 'Moldavita Meteorito 100% Natural 15.90 Quilates '
 unit_price: '700.000'
 description: Exclusivo Ejemplar de Moldavita Calidad AAA 100% Natural
 cover_img: "/uploads/img_20200605_022435.jpg"

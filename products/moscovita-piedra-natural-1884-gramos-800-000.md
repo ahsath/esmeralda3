@@ -2,7 +2,7 @@
 date: 2020-04-28T12:49:15.000+00:00
 category: Raras
 available: true
-title: Moscovita Piedra Natural 1884 Gramos
+title: Moscovita 100% Natural 1884 Gramos
 description: 'Moscovita Piedra 100% Natural Pieza de Colección '
 unit_price: '800.000'
 images:
