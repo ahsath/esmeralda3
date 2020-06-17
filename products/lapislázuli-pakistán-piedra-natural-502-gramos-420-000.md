@@ -2,7 +2,7 @@
 date: 2020-04-27T21:10:28.000+00:00
 category: Piedras preciosas
 available: true
-title: Lapislázuli Pakistán Piedra Natural 502 Gramos
+title: Lapislázuli Pakistán 100% Natural 502 Gramos
 description: Lapislázuli Pakistán Piedra 100% Natural
 unit_price: '420.000'
 images:
