@@ -1,8 +1,8 @@
 ---
-date: 2020-05-17T19:10:26Z
+date: 2020-05-17T19:10:26.000+00:00
 category: Semi preciosas
 available: true
-title: 'Opalina Piedra Preciosa 135.70 Quilates  '
+title: 'Opalina de Laboratorio 135.70 Quilates  '
 unit_price: '20.000'
 description: 'Hermosa Opalina Sintética  transparente '
 cover_img: "/uploads/img_20200128_100659.jpg"

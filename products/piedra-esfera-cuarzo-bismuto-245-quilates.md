@@ -1,8 +1,8 @@
 ---
-date: 2020-05-17T18:02:19Z
+date: 2020-05-17T18:02:19.000+00:00
 category: Semi preciosas
 available: true
-title: 'Piedra Esfera Cuarzo Bismuto 245 Quilates '
+title: 'Cuarzo Bismuto Esfera Natural 245 Quilates '
 unit_price: '90.000'
 description: 'Esfera de Cuarzo Bismuto  Origen Brasil '
 cover_img: "/uploads/img_20200128_100544.jpg"

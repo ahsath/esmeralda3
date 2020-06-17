@@ -2,7 +2,7 @@
 date: 2020-05-13T19:40:13.000+00:00
 category: Semi preciosas
 available: true
-title: 'Ojo De Tigre Piedra 100% Natural  172 Quilates '
+title: 'Ojo De Tigre 100% Natural  172 Quilates '
 unit_price: '30.000'
 description: Ojo de Tigre Piedra 100% Natural con Ematita Perforada
 cover_img: "/uploads/IMG_20200120_080830.jpg"

@@ -1,8 +1,8 @@
 ---
-date: 2020-06-07T16:47:09Z
+date: 2020-06-07T16:47:09.000+00:00
 category: Meteoritos
 available: true
-title: 'Piedra Cristal Negro Tectita 19.72 Quilates '
+title: 'Tectita Cristal Negro 100% Natural 19.72 Quilates '
 unit_price: '500.000'
 description: 'Hermoso Cristal Negro de Meteorito Talla Diamante '
 cover_img: "/uploads/3b7cc0f2-faa4-4cfb-b704-f848991a96c2.jpg"

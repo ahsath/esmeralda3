@@ -2,7 +2,7 @@
 date: 2020-02-19T13:02:55.000+00:00
 category: Semi preciosas
 available: true
-title: Piedra Ara 100% Natural 102.05 Quilates
+title: Ara Piedra Sagrada 100% Natural 102.05 Quilates
 description: Hermosa Piedra Ara Origen Arabia Saudí Peso 102.05 QuilatesMedidas Largo
   35.28 Milímetros Ancho 26.31 Milímetros Alto 16.79 Milímetros
 unit_price: '70.000'

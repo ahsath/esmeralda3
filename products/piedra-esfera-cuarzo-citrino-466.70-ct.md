@@ -1,8 +1,8 @@
 ---
-date: 2020-05-17T20:39:28Z
+date: 2020-05-17T20:39:28.000+00:00
 category: Semi preciosas
 available: true
-title: 'Piedra Esfera Cuarzo Citrino 466.70 Ct '
+title: 'Esfera Cuarzo Citrino 100% Natural 466.70 Quilates '
 unit_price: '150.000'
 description: 'Esfera de Cuarzo Citrino  Origen Brasil '
 cover_img: "/uploads/img_20200128_111506.jpg"

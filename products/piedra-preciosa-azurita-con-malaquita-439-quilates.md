@@ -1,8 +1,8 @@
 ---
-date: 2020-05-17T19:52:39Z
+date: 2020-05-17T19:52:39.000+00:00
 category: Raras
 available: true
-title: 'Piedra Preciosa Azurita Con Malaquita 439 Quilates '
+title: 'Azurita Con Malaquita 100% Natural 439 Quilates '
 unit_price: '130.000'
 description: Hermoso Ejemplar de Azurita con Malaquita 100% Natural
 cover_img: "/uploads/img_20200128_111312.jpg"

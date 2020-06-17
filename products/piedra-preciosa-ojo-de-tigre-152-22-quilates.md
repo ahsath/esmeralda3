@@ -2,7 +2,7 @@
 date: 2020-05-13T19:36:09.000+00:00
 category: Semi preciosas
 available: true
-title: " Ojo De Tigre Piedra 100% Natural 152.22 Quilates "
+title: " Ojo De Tigre 100% Natural 152.22 Quilates "
 unit_price: '30.000'
 description: 'Hermosa Roca de Ojo de Tigre perforada '
 cover_img: "/uploads/IMG_20200120_080630-1.jpg"

@@ -1,8 +1,8 @@
 ---
-date: 2020-05-17T19:50:24Z
+date: 2020-05-17T19:50:24.000+00:00
 category: Piedras preciosas
 available: true
-title: 'Peridoto Piedra Cultivada 50.15 Quilates  '
+title: 'Peridoto Cultivado 50.15 Quilates  '
 unit_price: '150.000'
 description: 'Hermoso Peridoto Piedra de Cultivo  Origen Girona España '
 cover_img: "/uploads/img_20200128_111128.jpg"

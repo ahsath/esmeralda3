@@ -1,8 +1,8 @@
 ---
-date: 2020-05-17T19:18:28Z
+date: 2020-05-17T19:18:28.000+00:00
 category: Semi preciosas
 available: true
-title: 'Piedra Esfera Calcita Amarilla  237 Gramos '
+title: 'Calcita Amarilla Esfera 100% Natural 237 Gramos '
 unit_price: '120.000'
 description: 'Esfera de Calcita Amarilla  Origen México '
 cover_img: "/uploads/img_20200128_101043.jpg"

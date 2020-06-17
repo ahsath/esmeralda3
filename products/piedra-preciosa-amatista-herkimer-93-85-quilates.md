@@ -2,7 +2,7 @@
 date: 2020-05-13T13:10:34.000+00:00
 category: Semi preciosas
 available: true
-title: 'Piedra Preciosa Amatista Herkimer 93.85 Quilates '
+title: 'Amatista Herkimer 100% Natural 93.85 Quilates '
 unit_price: '80.000'
 description: Hermoso Ejemplar de Amatista Herkimer
 cover_img: "/uploads/IMG_0692.jpg"
