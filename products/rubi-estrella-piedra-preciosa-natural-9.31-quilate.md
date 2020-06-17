@@ -1,8 +1,8 @@
 ---
-date: 2020-05-31T12:25:07Z
+date: 2020-05-31T12:25:07.000+00:00
 category: Piedras preciosas
 available: true
-title: Rubí Estrella Piedra Preciosa Natural 9.31 Quilate
+title: Rubí Estrella 100% Natural 9.31 Quilate
 unit_price: '900.000'
 description: 'Rubí Estrella Piedra Natural  100% Natural '
 cover_img: "/uploads/img_20200527_175944-2.jpg"

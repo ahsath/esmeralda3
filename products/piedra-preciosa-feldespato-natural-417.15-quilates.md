@@ -1,8 +1,8 @@
 ---
-date: 2020-05-17T19:44:18Z
+date: 2020-05-17T19:44:18.000+00:00
 category: Piedras preciosas
 available: true
-title: 'Piedra Preciosa Feldespato Natural 417.15 Quilates '
+title: 'Feldespato de Calcita 100% Natural 417.15 Quilates '
 unit_price: '130.000'
 description: Hermoso Ejemplar de Feldespato Natural 100% Natural
 cover_img: "/uploads/img_20200128_111022.jpg"

@@ -1,8 +1,8 @@
 ---
-date: 2020-05-13T17:24:25Z
+date: 2020-05-13T17:24:25.000+00:00
 category: Piedras preciosas
 available: true
-title: 'Piedra Preciosa Cuarzo Negro Rumano 160.90 Quilates '
+title: 'Cuarzo Negro Rumano 100% Natural 160.90 Quilates '
 unit_price: '150.000'
 description: Hermoso Ejemplar de Cuarzo Negro Piedra 100% Natural
 cover_img: "/uploads/IMG_0911.jpg"

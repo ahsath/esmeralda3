@@ -1,8 +1,8 @@
 ---
-date: 2020-05-13T17:27:32Z
+date: 2020-05-13T17:27:32.000+00:00
 category: Semi preciosas
 available: true
-title: 'Piedra Preciosa Cuarzo Lemuriano Rojo 127.40 Quilates '
+title: 'Cuarzo Lemuriano Rojo 100% Natural 127.40 Quilates '
 unit_price: '120.000'
 description: Hermoso Ejemplar de Cuarzo Lemuriano Rojo Piedra 100% Natural
 cover_img: "/uploads/IMG_0914.jpg"

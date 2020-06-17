@@ -2,7 +2,7 @@
 date: 2020-05-17T17:22:33Z
 category: Fósil
 available: true
-title: 'Piedra Preciosa Coral Fosilizado 87.20 Quilates '
+title: 'Coral Fosilizado 100% Natural 87.20 Quilates '
 unit_price: '70.000'
 description: 'Coral Fosilizado Piedra Natural  Origen Marruecos '
 cover_img: "/uploads/img_20200128_092735.jpg"
@@ -12,17 +12,17 @@ images:
 - "/uploads/img_20200128_092724.jpg"
 
 ---
-Coral Fosilizado Piedra Natural 
+Coral Fosilizado Piedra Natural
 
-Origen Marruecos 
+Origen Marruecos
 
 Peso 89.20 Quilates
 
-Medidas 43 X 31 X 9 Milímetros 
+Medidas 43 X 31 X 9 Milímetros
 
-Uno de los amuletos-protectores que podemos considerar efectivos en magia proceder de la Prehistoria.
+Uno de los amuletos-protectores que podemos considerar efectivos en magia procederá de la Prehistoria.
 
-Las "amonitas" o "amonoideos" eran pequeños animales animales marinos que tenían un aspecto de pulpos dentro de una concha (que para muchos es una construcción perfecta) y, además, eran grandes depredadores, un peso de su reducido tamaño.
+Las "amonitas" o "amonoideos" eran pequeños animales animales marinos que tenían un aspecto de pulpos dentro de una concha, además, eran grandes depredadores, un peso de su tamaño reducido.
 
 Por eso, desde la Antigüedad, se conserva este fósil como un ejemplo de "ser pequeño no significativo ser insignificante", y así como las amonitas se enfrentan ferozmente a sus grandes enemigos, nosotros también podemos protegernos con esta pieza de los peligros que nos acechan
 

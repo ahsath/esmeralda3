@@ -1,8 +1,8 @@
 ---
-date: 2020-05-31T17:54:00Z
+date: 2020-05-31T17:54:00.000+00:00
 category: Piedras preciosas
 available: true
-title: 'Rodocrosita Piedra Natural 12 Quilates '
+title: 'Rodocrosita 100% Natural 12 Quilates '
 unit_price: '130.000'
 description: 'Hermoso Ejemplar de Rodocrosita Natural '
 cover_img: "/uploads/img_20200527_181910.jpg"

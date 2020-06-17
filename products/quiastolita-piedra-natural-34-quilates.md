@@ -1,8 +1,8 @@
 ---
-date: 2020-05-31T16:36:19Z
+date: 2020-05-31T16:36:19.000+00:00
 category: Raras
 available: true
-title: 'Quiastolita Piedra Natural 34 Quilates '
+title: 'Quiastolita 100% Natural 34 Quilates '
 unit_price: '150.000'
 description: Hermosa Quiastolita Piedra 100% Natural
 cover_img: "/uploads/img_20200527_181231.jpg"

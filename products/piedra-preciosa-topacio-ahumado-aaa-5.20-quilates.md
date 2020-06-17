@@ -1,8 +1,8 @@
 ---
-date: 2020-05-31T18:34:43Z
+date: 2020-05-31T18:34:43.000+00:00
 category: Semi preciosas
 available: true
-title: 'Piedra Preciosa Topacio Ahumado Aaa 5.20 Quilates  '
+title: 'Topacio Ahumado Calidad AAA 100% Natural 5.20 Quilates  '
 unit_price: '250.000 '
 description: 'Precioso Topacio Ahumado Calidad AAA '
 cover_img: "/uploads/img_20200527_182128.jpg"

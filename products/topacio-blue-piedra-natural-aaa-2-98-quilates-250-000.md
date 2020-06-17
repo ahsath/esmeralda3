@@ -2,7 +2,7 @@
 date: 2020-04-27T03:25:52.000+00:00
 category: Piedras preciosas
 available: true
-title: 'Topacio Blue Piedra Natural AAA 2.98 Quilates  '
+title: 'Topacio Blue 100% Natural AAA 2.98 Quilates  '
 description: Topacio Blue Piedra 100% Natural
 unit_price: '250.000'
 images:
