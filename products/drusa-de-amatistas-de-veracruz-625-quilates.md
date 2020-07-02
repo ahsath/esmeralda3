@@ -18,9 +18,9 @@ Drusa de Amatistas de Veracruz
 
 Origen Veracruz México
 
-Peso 80 Quilates
+Peso 625 quilates
 
-Medidas 51 X 34 X 33 Milímetros
+Medidas 123 X 102 X 48 Milímetros
 
 contamos con tallador y joyero
 
