@@ -13,13 +13,17 @@ images:
 - "/uploads/img-20200701-wa0004.jpg"
 
 ---
-Drusa de Amatistas de Veracruz 
+Drusa de Amatistas de Veracruz
 
 Origen Veracruz México
 
-Peso 80 Quilates 
+Peso 80 Quilates
 
 Medidas 51 X 34 X 33 Milímetros
+
+Contamos con joyero y tallador 
+
+[https://youtu.be/tdNFWr23a9k](https://youtu.be/tdNFWr23a9k "https://youtu.be/tdNFWr23a9k")
 
 La amatista es una piedra muy poderosa y protectora. Tranquilizante natural que ayuda a bloquear las energías ambientales negativas. A la hora de meditar te ayuda a alejar tus pensamientos de lo mundano, potenciando la asimilación de nuevas ideas. Aporta sentido común, potencia la memoria y la motivación y el centro emocionalmente.
 
