@@ -2,7 +2,7 @@
 date: 2020-07-21T01:56:04Z
 category: Piedras preciosas
 available: true
-title: 'Opalo Australiano '
+title: 'Opalo Australiano 6.20 Quilates 100 % Natural '
 unit_price: "$ 600.000"
 description: Opalo Australiano 6.20 Qt
 cover_img: "/uploads/img_20200711_103023.jpg"
