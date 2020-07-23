@@ -2,7 +2,7 @@
 date: 2020-07-21T11:43:22Z
 category: Piedras preciosas
 available: true
-title: 'Perla Negra '
+title: 'Perla Negra 8.60 Quilates '
 unit_price: "$ 350.000"
 description: 'Perla Negra 100% Natural 8.60 Qt '
 cover_img: "/uploads/img_20200711_080930.jpg"

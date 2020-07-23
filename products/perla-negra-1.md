@@ -2,7 +2,7 @@
 date: 2020-07-21T12:33:11Z
 category: Piedras preciosas
 available: true
-title: 'Perla Negra '
+title: 'Perla Negra 3.15 Quilates '
 unit_price: "$ 180.000"
 description: 'Perla Negra 100% Natural 3.15 Ct '
 cover_img: "/uploads/img_20200711_081140.jpg"

@@ -2,7 +2,7 @@
 date: 2020-07-21T13:04:32Z
 category: Piedras preciosas
 available: true
-title: Rubi Natural
+title: 'Rubi Natural 24.25 Quilates '
 unit_price: "$ 150.000"
 description: 'Rubi Natural 24.25 Ct 100% Natural '
 cover_img: "/uploads/img_20200711_083007.jpg"
