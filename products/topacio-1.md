@@ -1,8 +1,8 @@
 ---
 date: 2020-07-21T16:09:41Z
-category: Piedras preciosas
+category: Semi preciosas
 available: true
-title: Topacio
+title: 'Topacio Natural 14 Quilates '
 unit_price: "$420.000"
 description: Topacio 14.00 Ct 100% Natural
 cover_img: "/uploads/img_20200711_093027.jpg"

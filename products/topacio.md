@@ -1,10 +1,10 @@
 ---
 date: 2020-07-21T15:55:04Z
-category: Piedras preciosas
+category: Semi preciosas
 available: true
-title: 'Topacio '
+title: 'Topacio 8.90 Quilates 100% Natural '
 unit_price: "$300.000"
-description: 'Topacio 8.90 Ct  '
+description: 'Topacio 8.90 100% natural '
 cover_img: "/uploads/img_20200711_092555.jpg"
 images:
 - "/uploads/img_20200711_092640.jpg"
@@ -15,7 +15,6 @@ images:
 - "/uploads/img_20200711_092556.jpg"
 
 ---
-
 Hermoso Topacio Talla Esmeralda
 
 Origen Brasil
@@ -26,7 +25,7 @@ Medidas 15.47 X 11.91 X 6.20 Milímetros
 
 El topacio dirige la energía hacia donde más se necesita. Alivia, cura, estimula y alinea todos los meridianos del cuerpo, a la vez que también fomenta la verdad y el perdón.
 
-Resalta objetivos y te pone en contacto con los recursos internos y, tradicionalmente, el topacio ha sido conocido como una piedra de amor y buena suerte, consiguiendo lograr tus objetivos.
+Resalta los objetivos y el teléfono en contacto con los recursos internos y, tradicionalmente, el topacio ha sido conocido como una piedra de amor y buena suerte, consiguiendo lograr tus objetivos.
 
 Psicológicamente te ayuda a descubrir tus propias riquezas internas y mentalmente te ayuda a resolver problemas.
 
