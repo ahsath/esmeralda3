@@ -70,6 +70,7 @@ fields:
   description: Indica si el producto esta disponible
   default: true
 pages:
+- products/11.25-quilates.md
 - products/55.55-quilates.md
 - products/acondrita-meteorito-rocoso-235-quilates.md
 - products/acondrita-meteorito-rocoso-240-quilates.md
@@ -125,6 +126,7 @@ pages:
 - products/amonita-piedra-fosil-natural-182-gramos.md
 - products/amonita-piedra-fosil-natural-270-quilates.md
 - products/apophyllite-natural-piedra-preciosa-149-gramos.md
+- products/azurita-100-natural-55.00.md
 - products/azurita-piedra-100-natural-33-quilates.md
 - products/azurita-piedra-100-natural-69-quilates.md
 - products/boguel-cuarzo-lemuriano-piedra-natural-145-05-quilates.md
