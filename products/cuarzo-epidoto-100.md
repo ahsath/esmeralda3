@@ -2,8 +2,8 @@
 date: 2020-07-21T00:34:05Z
 category: Semi preciosas
 available: true
-title: 'Cuarzo Epidoto 100% '
-unit_price: "$ 350.000"
+title: Cuarzo Epidoto 100% 20 Quilates
+unit_price: '350.000'
 description: 'Cuarzo Epidoto 100% Natural '
 cover_img: "/uploads/img_20200711_075401.jpg"
 images:
@@ -24,9 +24,9 @@ Cuarzo Epidoto Piedra 100% Natural Sin Tratamiento
 
 Origen: Kenia
 
-Peso: 20.75 quilates
+Peso: 20,75 quilates
 
-Medidas: 19.66 X 12.84 X 8.36 Milímetros.
+Medidas: 19,66 X 12,84 X 8,36 Milímetros.
 
 Contamos con Joyero y Tallador
 
