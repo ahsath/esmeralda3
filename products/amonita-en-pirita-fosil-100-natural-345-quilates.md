@@ -1,17 +1,16 @@
 ---
-date: 2020-06-08T13:01:25Z
+date: 2020-06-08T13:01:25.000+00:00
 category: Fósil
 available: true
 title: 'Amonita en Pirita Fósil 100% Natural 345 Quilates '
 unit_price: '150.000'
 description: 'Ejemplar de Amonita Fósil en Pirita 100% Natural '
-cover_img: "/uploads/img_20200605_031737.jpg"
+cover_img: "/uploads/img_20200728_045521.jpg"
 images:
-- "/uploads/img_20200605_031736.jpg"
-- "/uploads/img_20200605_031735.jpg"
-- "/uploads/img_20200605_031734.jpg"
-- "/uploads/img_20200605_031733.jpg"
-- "/uploads/img_20200605_031431.jpg"
+- "/uploads/img_20200728_045522.jpg"
+- "/uploads/img_20200728_045521.jpg"
+- "/uploads/img_20200728_045519.jpg"
+- "/uploads/img_20200728_045515.jpg"
 
 ---
 Ejemplar de Amonita Fósil en Pirita 100% Natural 
