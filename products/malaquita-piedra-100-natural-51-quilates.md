@@ -12,21 +12,21 @@ images:
 - "/uploads/img_20200605_033338.jpg"
 
 ---
-Malaquita Piedra 100% Natural 
+Malaquita Piedra 100% Natural
 
 Origen República Democrática del Congo
 
 Peso 51 Quilates
 
-Medidas 33 X 31 X 11 Milímetros 
+Medidas 33 X 31 X 11 Milímetros
 
 [https://www.youtube.com/watch?v=ZcSrar-_e2M](https://www.youtube.com/watch?v=ZcSrar-_e2M "https://www.youtube.com/watch?v=ZcSrar-_e2M")
 
-CONTAMOS CON JOYERO Y TALLADOR 
+CONTAMOS CON JOYERO Y TALLADOR
 
 Es una importante piedra protectora y que absorbe de una forma muy fácil las energías negativas del cuerpo. La malaquita limpia y activa los chacras. Puesta sobre el tercer ojo activa la visualización y la visión psíquica y, puesta sobre el corazón, aporta equilibrio y armonía.
 
-La Malaquita es una piedra de transformación su espíritu aventurero te ayuda en los momentos de cambios, te impulsara a asumir riesgos y te dará la información sagrada que te lleva a tu evolución espiritual. Muestra sin rodeos lo que nos impide el crecimiento, rompe vínculos no deseados, conceptos trasnochados y nos impulsa a lo nuevo.
+La Malaquita es una piedra de riesgos de transformación su espíritu aventurero te ayuda en los momentos de cambios, te impulsara a asumir y te dará la información sagrada que te lleva a tu evolución espiritual. Muestra sin rodeos lo que nos impide el crecimiento, rompe vínculos no deseados, conceptos trasnochados y nos impulsa a lo nuevo.
 
 Es una de las gemas mas antiguas usadas por diferentes civilizaciones por sus propiedades sanadoras y transformadoras. Las personalidades destacadas de Egipto la preferencia por su poder excepcional: los hallazgos arqueológicos de las ropas de faraones casi siempre incluyen incrustaciones de Malaquita.
 
