@@ -15,9 +15,9 @@ images:
 - "/uploads/img_20200711_103443.jpg"
 
 ---
-Nombre: Piedra Luna 100% Natural
+Nombre: Piedra Opalo Australiano 100% Natural
 
-Origen: India 
+Origen: Australia 
 
 Peso: 5,45 quilates
 
@@ -25,4 +25,4 @@ Medidas: 15.75 X 9.98 X 2.30 Centímetros
 
 CONTAMOS CON JOYERO Y TALLADOR
 
-[https://youtu.be/xf7yV0vxMAA](https://youtu.be/xf7yV0vxMAA "https://youtu.be/xf7yV0vxMAA")
+[https://www.youtube.com/watch?v=xf7yV0vxMAA](https://www.youtube.com/watch?v=xf7yV0vxMAA "https://www.youtube.com/watch?v=xf7yV0vxMAA")
