@@ -1,9 +1,9 @@
 ---
-date: 2020-05-12T19:43:12Z
+date: 2020-05-12T19:43:12.000+00:00
 category: Semi preciosas
 available: true
 title: 'Boguel Cuarzo Lemuriano Piedra Natural 145.05 Quilates '
-unit_price: "$ 140.000"
+unit_price: '140.000'
 description: Hermoso Boguel de Cuarzo Lemuriano Rojo 100% Natural
 cover_img: "/uploads/IMG_0634.jpg"
 images:
@@ -12,21 +12,21 @@ images:
 - "/uploads/IMG_0635.jpg"
 
 ---
-Hermoso Boguel de Cuarzo Lemuriano Rojo 
+Hermoso Boguel de Cuarzo Lemuriano Rojo
 
-Origen Provincia de Alicante España 
+Origen Provincia de Alicante España
 
-Peso 145.05 Quilates 
+Peso 145.05 Quilates
 
-Medidas 
+Medidas
 
-Largo 55.24 Milímetros 
+Largo 55.24 Milímetros
 
-Diámetro 18.94 X 16.36 Milímetros 
+Diámetro 18.94 X 16.36 Milímetros
 
 [https://www.youtube.com/watch?v=F9YTDB5r2R0](https://www.youtube.com/watch?v=F9YTDB5r2R0 "https://www.youtube.com/watch?v=F9YTDB5r2R0")
 
-Tal vez te estés preguntando ¿Que significa el Cuarzo Lemuriano Rojo Pues, este cuarzo es considerado la piedra del amor.
+¿Qué significa el Cuarzo Lemuriano Rojo? Pues bien, este cuarzo es considerado la piedra del amor.
 
 Este mineral rojizo es un símbolo duradero de amor y cariño, trae amistad duradera y garantiza la fidelidad de quien amas. Cuando se utiliza esta piedra de cuarzo roja se usa para aliviar las emociones negativas y fortalecer las relaciones entre amigos.
 
