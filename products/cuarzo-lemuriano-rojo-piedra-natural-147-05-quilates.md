@@ -1,9 +1,9 @@
 ---
-date: 2020-05-12T17:01:35Z
+date: 2020-05-12T17:01:35.000+00:00
 category: Semi preciosas
 available: true
 title: 'Cuarzo Lemuriano Rojo Piedra Natural 147.05 Quilates '
-unit_price: "$ 120.000"
+unit_price: '120.000'
 description: Hermoso Ejemplar de Cuarzo Lemuriano Rojo Piedra 100% Natural
 cover_img: "/uploads/IMG_0542.jpg"
 images:
@@ -13,17 +13,17 @@ images:
 - "/uploads/IMG_0536.jpg"
 
 ---
-Hermoso Ejemplar de Cuarzo Lemuriano Rojo 
+Hermoso Ejemplar de Cuarzo Lemuriano Rojo
 
-Origen Provincia de Alicante España 
+Origen Provincia de Alicante España
 
-Peso 147.05 Quilates 
+Peso 147.05 Quilates
 
-Medidas 61 X 24 X 23 Milímetros 
+Medidas 61 X 24 X 23 Milímetros
 
 [https://www.youtube.com/watch?v=mBokPR8sKwk](https://www.youtube.com/watch?v=mBokPR8sKwk "https://www.youtube.com/watch?v=mBokPR8sKwk")
 
-Tal vez te estés preguntando ¿Que significa el Cuarzo Lemuriano Rojo Pues, este cuarzo es considerado la piedra del amor.
+¿Qué significa el Cuarzo Lemuriano Rojo? Pues bien, este cuarzo es considerado la piedra del amor.
 
 Este mineral rojizo es un símbolo duradero de amor y cariño, trae amistad duradera y garantiza la fidelidad de quien amas. Cuando se utiliza esta piedra de cuarzo roja se usa para aliviar las emociones negativas y fortalecer las relaciones entre amigos.
 
