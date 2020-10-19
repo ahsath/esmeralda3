@@ -15,15 +15,15 @@ images:
 ---
 Nombre: Labradorita 100% Natural
 
-Origen: Pakistán 
+Origen: Pakistán
 
-Peso: 98 Gramos
+Peso: 98 gramos
 
 Medidas: 5.7 X 4.6 X 2.4 Centímetros
 
-CONTAMOS CON JOYERO Y TALLADOR 
+CONTAMOS CON JOYERO Y TALLADOR
 
-Es una piedra altamente mística y protectora, desvía fuerzas no deseadas del aura y forma una barrera ante las energías negativas. Puede llevarte a otro mundo o a otras vidas, ya que es una piedra muy esotérica que facilita la iniciación a los misterios. La labradorita alinea los cuerpos físico y etérico, estimula la intuición y los dones psíquicos. Psicológicamente disipa miedos e inseguridades. Fortalece la fe en el yo y la confianza en el universo. Calma la mente hiperactiva y energetiza la imaginación, aporta también contemplación e introspección. Ponla en el chacra corazón superior o sostenla o colócala donde sea apropiado.
+Es una piedra altamente mística y protectora, desvía fuerzas no deseadas del aura y forma una barrera ante las energías negativas. Puede llevarte a otro mundo oa otras vidas, ya que es una piedra muy esotérica que facilita la iniciación a los misterios. La labradorita alinea los cuerpos físicos y etérico, estimula la intuición y los dones psíquicos. Psicológicamente disipa miedos e inseguridades. Fortalece la fe en el yo y la confianza en el universo. Calma la mente hiperactiva y energetiza la imaginación, aporta también contemplación e introspección. Ponla en el chacra corazón superior o sostenla o colócala donde sea apropiado.
 
 LISTADO DE PIEDRAS PRECIOSAS CONTAMOS CON MAS DE 2000 MINERALES DIFERENTES
 
@@ -55,7 +55,7 @@ Cristal negro meteorito campo celeste proveniente del planeta Marte
 
 Cristal de oro o cristal del desierto proveniente del planeta Marte
 
-Condrita Meteorito
+Meteorito Condrita
 
 Acondrita
 
