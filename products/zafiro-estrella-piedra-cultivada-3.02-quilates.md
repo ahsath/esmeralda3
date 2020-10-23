@@ -4,7 +4,7 @@ category: Piedras preciosas
 available: true
 title: 'Zafiro Estrella Piedra Cultivada 3.02 Quilates '
 unit_price: '200.000'
-description: 'Hermoso Zafiro de Cultivo '
+description: 'Hermoso Zafiro Estrella de Cultivo '
 cover_img: "/uploads/img_20201014_115047.jpg"
 images:
 - "/uploads/img_20201014_115055.jpg"
@@ -20,6 +20,8 @@ Origen Birmania
 Peso 3.02 Quilates
 
 Medidas 10.05 X 9 X 3.03 Milímetros
+
+[https://youtu.be/tUBQpU_RnOI](https://youtu.be/tUBQpU_RnOI "https://youtu.be/tUBQpU_RnOI")
 
 CONTAMOS CON TALLADOR Y JOYERO
 
