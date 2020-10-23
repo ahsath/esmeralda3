@@ -26,192 +26,192 @@ Peso 141 Quilates
 
 Medidas 42 X 41 X 30 Milímetros
 
-CONTAMOS CON TALLADOR Y JOYERO 
+CONTAMOS CON TALLADOR Y JOYERO
 
 Significado del Cuarzo Negro
 
-Este cuarzo es conocido también como el cuarzo neutralizador, esto significa que nos ayuda a neutralizar todo pensamiento negativo  que pase por nuestra cabeza. Ayuda a neutralizar también esos ataques de ira, impotencia e incertidumbre. 
+Este cuarzo es conocido también como el cuarzo neutralizador, esto significa que nos ayuda a neutralizar todo pensamiento negativo que pase por nuestra cabeza. Ayuda a neutralizar también esos ataques de ira, impotencia e incertidumbre.
 
 Propiedades del Cuarzo Negro: ¿Para qué sirve?
 
 Este cuarzo tiene propiedades que pueden ser de gran beneficio para nosotros, tanto en el tema de curación como emocional o psicológico
 
-Propiedades Curativas. 
+Propiedades Curativas.
 
-El cuarzo negro ayuda al estrés, la persona que lo posea o lo mantenga cerca le servirá para ganar relajación y reducir bastante la tensión provocada por los problemas del día a día. En nuestro diario vivir a menudo tenemos cosas que nos agitan lo cual nos llena de estrés, sin duda el cuarzo negro te será de mucha utilidad para estos casos. 
+El cuarzo negro ayuda al estrés, la persona que lo posea o lo mantiene cerca le servirá para ganar relajación y reducir bastante la tensión provocada por los problemas del día a día. En nuestro diario vivir a menudo tenemos cosas que nos agitan lo cual nos llena de estrés, sin duda el cuarzo negro te será de mucha utilidad para estos casos.
 
 Previene el mal de ojo
 
 Si no sabes que es el mal de ojos es el fenómeno de cargas negativas que son traspasadas generalmente a niños de manera inconsciente por parte de otras personas, lo cual produce fiebre y otras cosas, el cuarzo negro ayuda a prevenir el mal de ojo al proteger a persona de las energías negativas que se pueden producir con la mirada, ahuyentarlas.
 
-PROPIEDADES DE LA CALCITA 
+PROPIEDADES DE LA CALCITA
 
 A nivel energético, es la purificadora por excelencia y su poder en este ámbito es mayor que el de otras calcitas. Fomenta además el desarrollo espiritual y potencia las capacidades del individuo para comprender el entorno. Aporta seguridad, energía y rapidez de pensamiento.
 
-LISTADO DE PIEDRAS PRECIOSAS Y MINERALES DISPONIBLES 
+LISTADO DE PIEDRAS PRECIOSAS Y MINERALES DISPONIBLES
 
-Esmeralda Colombiana 
+Esmeralda Colombiana
 
 Esmeralda Rosada o Morganita
 
 Esmeralda Roja o Bixbita
 
-Esmeralda Azul o Euclasa 
+Esmeralda Azul o Euclasa
 
-Rubí 
+Rubí
 
-Zafiro 
+Zafiro
 
 Diamante solo por pedido y solo se vende con certificado por seguridad para el cliente
 
-Alejandrita piedra preciosa de color cambiante 
+Alejandrita piedra preciosa de color cambiante
 
-Diásporo piedra preciosa de color cambiante 
+Diásporo piedra preciosa de color cambiante
 
-Sultanita piedra preciosa de color Cambiante 
+Sultanita piedra preciosa de color Cambiante
 
-Moldavita que es un raro meteorito parecido a la esmeralda fusión de meteorito con material terrestre 
+Moldavita que es un raro meteorito parecido a la esmeralda fusión de meteorito con material terrestre
 
-Campo de cielo meteorito metálico 
+Campo de cielo meteorito metálico
 
-Cristal negro meteorito campo celeste proveniente del planeta Marte 
+Cristal negro meteorito campo celeste proveniente del planeta Marte
 
-Cristal de oro o cristal del desierto proveniente del planeta Marte 
+Cristal de oro o cristal del desierto proveniente del planeta Marte
 
-Condrita Meteorito 
+Meteorito Condrita
 
-Acondrita 
+Acondrita
 
-Ópalo de Welo de Australia 
+Ópalo de Welo de Australia
 
-Ópalo negro de Australia 
+Ópalo negro de Australia
 
-Ópalo de fuego de Etiopía 
+Ópalo de fuego de Etiopía
 
-Larimar proveniente de la República Dominicana 
+Larimar proveniente de la República Dominicana
 
-Aragonito Español 
+Aragonito Español
 
-Cuarzo Solar Mexicano 
+Cuarzo Solar Mexicano
 
-Amatista 
+Amatista
 
-Ametrino 
+Ametrino
 
-Citrino 
+Citrino
 
-Malaquita 
+Malaquita
 
-Ágata de fuego proviene de México 
+Ágata de fuego proviene de México
 
-Ágatas de casi todos los colores siendo unas de las pocas piedras que se encuentran en casi todos los continentes y en casi todos los colores 
+Ágatas de casi todos los colores siendo unas de las pocas piedras que se encuentran en casi todos los continentes y en casi todos los colores
 
-Obsidiana 
+Obsidiana
 
-Ónix cielo 
+Ónix cielo
 
-Ónix negro 
+Ónix negro
 
-Labradorita 
+Labradorita
 
 Espectrolita
 
-Ojo de tigre 
+Ojo de tigre
 
 Ojo de Buey
 
-Turmalina sandia tallada 
+Turmalina sandia tallada
 
-Turmalina sandia en bruto 
+Turmalina sandia en bruto
 
-Granate piropo 
+Piropo granate
 
 Granate Henossita
 
-Granate estrella 
+Estrella granate
 
-Ammonite natural es una piedra fosilizada de millones de años proveniente de Canadá 
+Ammonite natural es una piedra fosilizada de millones de años proveniente de Canadá
 
-Espinela 
+Espinela
 
-Cuarzo arcoíris 
+Cuarzo arcoíris
 
-Cuarzo ahumado 
+Cuarzo ahumado
 
-Cuarzo en variadas formas 
+Cuarzo en variadas formas
 
-Cuarzo Fantasma 
+Cuarzo Fantasma
 
-Calcita 
+Calcita
 
-Fluorita en drusa y en bruto 
+Fluorita en drusa y en bruto
 
-Goldenita 
+Goldenita
 
-Apophyllite 
+Apofilita
 
-Ágata de Seda de Madagascar 
+Ágata de Seda de Madagascar
 
-Cuarzo Ahumado 
+Cuarzo Ahumado
 
-Cuarzo Citrino 
+Cuarzo Citrino
 
-Cuarzo Amatista 
+Cuarzo Amatista
 
-Cuarzo con Gota de Agua 
+Cuarzo con Gota de Agua
 
-Charoita 
+Charoita
 
-Cuarzo Bipiramidal 
+Cuarzo Bipiramidal
 
-Jade 
+Jade
 
 Cuarzo con Turmalina
 
-Chalcantite
+Calcantita
 
 Circón Natural en Bruto
 
-Aventurina verde 
+Aventurina verde
 
 Aventurina Roja
 
-Lazurita Fluorescente 
+Lazurita Fluorescente
 
 Koshitan
 
-Cuarzo de Titanio 
+Cuarzo de Titanio
 
-Apatita Azul 
+Apatita Azul
 
-Apatita Verde 
+Apatita Verde
 
 Peridoto
 
-Topacio Azul 
+Topacio Azul
 
-Topacio Londres 
+Topacio Londres
 
 Aguamarina
 
 Coral Rojo
 
-Coral Azul 
+Coral Azul
 
-Jaspe 
+Jaspe
 
-Jaspe Oceánico 
+Jaspe Oceánico
 
-Sepatariano bola de Dragón cristal 
+Sepatariano bola de Dragón cristal
 
-Rodocrosita 
+Rodocrosita
 
 Rubí Sangre de Pichón
 
 Cuarzo Negro
 
-Oropimente 
+Oropimente
 
-Azurita 
+Azurita
 
 Malaquita
