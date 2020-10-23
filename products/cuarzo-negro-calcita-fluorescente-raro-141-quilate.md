@@ -2,7 +2,7 @@
 date: 2020-10-19T15:37:56Z
 category: Semi preciosas
 available: true
-title: Cuarzo Negro Calcita Fluorescente Raro 141 Quilate
+title: Cuarzo Negro con Calcita Fluorescente Raro 141 Quilates
 unit_price: '220.000'
 description: Espectacular Cuarzo Negro con Calcita Fluorescente 100% Natural
 cover_img: "/uploads/img_20201014_114950.jpg"
@@ -25,6 +25,8 @@ Origen Rumania
 Peso 141 Quilates
 
 Medidas 42 X 41 X 30 Milímetros
+
+[https://youtu.be/8pPdDRe6xyY](https://youtu.be/8pPdDRe6xyY "https://youtu.be/8pPdDRe6xyY")
 
 CONTAMOS CON TALLADOR Y JOYERO
 
