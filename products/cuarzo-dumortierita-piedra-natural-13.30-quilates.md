@@ -22,6 +22,8 @@ Peso 13.17 Quilates
 
 Medidas 12,38 Milímetros
 
+[https://youtu.be/hEDPb5vw8fk](https://youtu.be/hEDPb5vw8fk "https://youtu.be/hEDPb5vw8fk")
+
 CONTAMOS CON JOYERO Y TALLADOR
 
 La Dumortierita es un mineral que pertenece al grupo de los silicatos con sistema cristalino ortorrómbico. Se manifiesta en rocas matamórficas regionales de alta temperatura ricas en aluminio y en pegmatitas ricas en boro.

@@ -22,6 +22,8 @@ Peso 38.35 Quilates
 
 Medidas 25 X 23 X 16 Centímetros
 
+[https://youtu.be/OSyS7-7ny9k](https://youtu.be/OSyS7-7ny9k "https://youtu.be/OSyS7-7ny9k")
+
 CONTAMOS CON TALLADOR Y JOYERO
 
 MITOLOGÍA y CURIOSIDADES: Otros nombres que reciben el cuarzo verde es prasio, que viene del griego prasos (puerro), en alusión a su color verde. Se le conoce como 'talismán de suerte' o 'piedra de los jugadores', por ser popular entre los jugadores de azar y los amantes del riesgo.
