@@ -1,27 +1,27 @@
 ---
-date: 2020-10-23T20:23:57Z
+date: 2020-10-23T20:27:46Z
 category: Semi preciosas
 available: true
-title: Goldstone 100% Natural 67.70Ct $110.000
-unit_price: '110.000'
-description: Goldstone 100% Natural 67.70Ct $110.000
-cover_img: "/uploads/img_20201023_053003.jpg"
+title: Goldstone 100% Natural 39.80 Ct $90.000
+unit_price: '90.000'
+description: Goldstone 100% Natural 39.80 Ct $90.000
+cover_img: "/uploads/img_20201023_053044.jpg"
 images:
-- "/uploads/img_20201023_053013.jpg"
-- "/uploads/img_20201023_053011_1.jpg"
-- "/uploads/img_20201023_053010.jpg"
-- "/uploads/img_20201023_053009.jpg"
-- "/uploads/img_20201023_053006_1.jpg"
-- "/uploads/img_20201023_053005.jpg"
+- "/uploads/img_20201023_053057.jpg"
+- "/uploads/img_20201023_053056.jpg"
+- "/uploads/img_20201023_053053.jpg"
+- "/uploads/img_20201023_053052.jpg"
+- "/uploads/img_20201023_053049.jpg"
 
 ---
 GoldStone   
+GoldStone   
 Origen: Canadá   
-Peso: 67,70 Quilates   
-Medidas: 22 X 22 X 19 Milímetros
-
-CONTAMOS CON TALLADOR Y JOYERO.
-
+Peso: 39.80 Quilates   
+Medidas: 20 X 21 X 12 Milímetros   
+  
+CONTAMOS CON TALLADOR Y JOYERO.   
+  
 LISTADO DE PIEDRAS PRECIOSAS Y MENERALES   
 Esmeralda Colombiana   
 Esmeralda Rosada o Morganita   
@@ -33,10 +33,10 @@ Diamante solo por pedido y solo se vende con certificado por seguridad para el c
 Alejandrita piedra preciosa de color cambiante   
 Diásporo piedra preciosa de color cambiante   
 Sultanita piedra preciosa de color Cambiante Moldavita   
-que es un raro meteorito parecido a la esmeralda fusión de meteorito con material terrestre   
+que es un raro meteorito parecido a la esmeralda fusión de meteorito con material terrestre  
 Campo de cielo meteorito metálico   
 Cristal negro meteorito campo celeste proveniente del planeta Marte   
-Cristal de oro o cristal del desierto proveniente del planeta Marte  
+Cristal de oro o cristal del desierto proveniente del planeta Marte   
 Condrita Meteorito   
 Acondrita   
 Ópalo de Welo de Australia   
@@ -50,9 +50,9 @@ Ametrino
 Citrino   
 Malaquita   
 Ágata de fuego proviene de México   
-Ágatas de casi todos los colores being an of the poor stones encuentran en casi todos los continentes y en casi todos los colores   
+Ágatas de casi todos los colores siendo unas de las pocas piedras que se encuentran en casi todos los continentes y en casi todos los colores   
 Obsidiana   
-Ónix cielo   
+Ónix cielo  
 Ónix negro   
 Labradorita   
 Espectrolita   
@@ -60,12 +60,12 @@ Ojo de tigre
 Ojo de Buey   
 Turmalina sandia tallada   
 Turmalina sandia en bruto   
-Granate piropo  
+Granate piropo   
 Granate Henossita   
 Granate estrella   
 Ammonite natural es una piedra fosilizada de millones de años proveniente de Canadá   
 Espinela   
-Cuarzo arcoíris   
+Cuarzo arco   
 Cuarzo ahumado   
 Cuarzo en variadas formas   
 Cuarzo Fantasma   
@@ -79,14 +79,14 @@ Cuarzo Citrino
 Cuarzo Amatista   
 Cuarzo con Gota de Agua   
 Charoita   
-Cuarzo Bipiramidal   
+Cuarzo Bipiramidal  
 Jade   
 Cuarzo con Turmalina   
 Chalcantite   
 CIRCON es natural, Bruto   
 Aventurina Verde   
 Aventurina Roja   
-lazurita Fluorescente  
+lazurita Fluorescente   
 Koshitan   
 cuarzo de Titanio   
 Apatita Azul   
