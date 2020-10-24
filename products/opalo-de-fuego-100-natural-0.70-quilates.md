@@ -20,7 +20,7 @@ Peso 0.70 Quilates
 
 Medidas 6.06  X 4.07 Milimetros
 
-[https://youtu.be/iY0zvvxmvPU](https://youtu.be/iY0zvvxmvPU "https://youtu.be/iY0zvvxmvPU")
+[https://youtu.be/D3wn-rMiKJg](https://youtu.be/D3wn-rMiKJg "https://youtu.be/D3wn-rMiKJg")
 
 CONTAMOS CON TALLADOR Y JOYERO
 

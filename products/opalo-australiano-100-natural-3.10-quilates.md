@@ -22,7 +22,7 @@ Peso 3.10 Quilates
 
 Medidas 13.60 X 9.72 X 5.62 Milimetros
 
-[https://youtu.be/ASKcI0M-als](https://youtu.be/ASKcI0M-als "https://youtu.be/ASKcI0M-als")
+[https://youtu.be/cMOSsmX95Lw](https://youtu.be/cMOSsmX95Lw "https://youtu.be/cMOSsmX95Lw")
 
 CONTAMOS CON TALLADOR Y JOYERO
 

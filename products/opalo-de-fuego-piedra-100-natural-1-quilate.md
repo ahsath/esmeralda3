@@ -16,13 +16,13 @@ images:
 ---
 Opalo de Australia Piedra Natural de color cambiante Calidad AAA
 
-Origen Australia 
+Origen Australia
 
 Peso 1.00 Quilates
 
 Medidas 8.02 X 6.18 X 3.60 Milímetros
 
-[https://www.youtube.com/watch?v=zN5im1bWYwQ](https://www.youtube.com/watch?v=zN5im1bWYwQ "https://www.youtube.com/watch?v=zN5im1bWYwQ")
+[https://youtu.be/_nEGgMipGK8](https://youtu.be/_nEGgMipGK8 "https://youtu.be/_nEGgMipGK8")
 
 CONTAMOS CON TALLADOR Y JOYERO
 
@@ -34,123 +34,123 @@ Potenciará la fidelidad, la solidaridad, la lealtad y el respeto para las relac
 
 El Opalo siempre fue considerado una piedra altamente espiritual, por la luz que lleva adentro y que ayuda a que tus propias llamas y luces se manifiestan. Los Nativos Americanos y los Aborígenes Australianos siempre han usado el Opalo para atraer visiones. Los Nativos Americanos lo han usado en la Ceremonia de la Búsqueda de Visión. Los Aborígenes Australianos lo han usado en la Ceremonia del Tiempo de los Sueños.
 
-LISTADO DE PIEDRAS PRECIOSAS Y MINERLAES DISPONIBLES 
+LISTADO DE PIEDRAS PRECIOSAS Y MINERLAES DISPONIBLES
 
-Esmeralda Colombiana 
+Esmeralda Colombiana
 
 Esmeralda Rosada o Morganita
 
 Esmeralda Roja o Bixbita
 
-Esmeralda Azul o Euclasa 
+Esmeralda Azul o Euclasa
 
-Rubí 
+Rubí
 
-Zafiro 
+Zafiro
 
 Diamante solo por pedido y solo se vende con certificado por seguridad para el cliente
 
-Alejandrita piedra preciosa de color cambiante 
+Alejandrita piedra preciosa de color cambiante
 
-Diásporo piedra preciosa de color cambiante 
+Diásporo piedra preciosa de color cambiante
 
-Sultanita piedra preciosa de color Cambiante 
+Sultanita piedra preciosa de color Cambiante
 
-Moldavita que es un raro meteorito parecido a la esmeralda fusión de meteorito con material terrestre 
+Moldavita que es un raro meteorito parecido a la esmeralda fusión de meteorito con material terrestre
 
-Campo de cielo meteorito metálico 
+Campo de cielo meteorito metálico
 
-Cristal negro meteorito campo celeste proveniente del planeta Marte 
+Cristal negro meteorito campo celeste proveniente del planeta Marte
 
-Cristal de oro o cristal del desierto proveniente del planeta Marte 
+Cristal de oro o cristal del desierto proveniente del planeta Marte
 
-Meteorito Condrita 
+Meteorito Condrita
 
-Acondrita 
+Acondrita
 
-Ópalo de Welo de Australia 
+Ópalo de Welo de Australia
 
-Ópalo negro de Australia 
+Ópalo negro de Australia
 
-Ópalo de fuego de Etiopía 
+Ópalo de fuego de Etiopía
 
-Larimar proveniente de la República Dominicana 
+Larimar proveniente de la República Dominicana
 
-Aragonito Español 
+Aragonito Español
 
-Cuarzo Solar Mexicano 
+Cuarzo Solar Mexicano
 
-Amatista 
+Amatista
 
-Ametrino 
+Ametrino
 
-Citrino 
+Citrino
 
-Malaquita 
+Malaquita
 
-Ágata de fuego proviene de México 
+Ágata de fuego proviene de México
 
-Ágatas de casi todos los colores siendo unas de las pocas piedras que se encuentran en casi todos los continentes y en casi todos los colores 
+Ágatas de casi todos los colores siendo unas de las pocas piedras que se encuentran en casi todos los continentes y en casi todos los colores
 
-Obsidiana 
+Obsidiana
 
-Ónix cielo 
+Ónix cielo
 
-Ónix negro 
+Ónix negro
 
-Labradorita 
+Labradorita
 
 Espectrolita
 
-Ojo de tigre 
+Ojo de tigre
 
 Ojo de Buey
 
-Turmalina sandia tallada 
+Turmalina sandia tallada
 
-Turmalina sandia en bruto 
+Turmalina sandia en bruto
 
-Piropo granate 
+Piropo granate
 
 Granate Henossita
 
-Estrella granate 
+Estrella granate
 
-Ammonite natural es una piedra fosilizada de millones de años proveniente de Canadá 
+Ammonite natural es una piedra fosilizada de millones de años proveniente de Canadá
 
-Espinela 
+Espinela
 
-Cuarzo arcoíris 
+Cuarzo arcoíris
 
-Cuarzo ahumado 
+Cuarzo ahumado
 
-Cuarzo en variadas formas 
+Cuarzo en variadas formas
 
-Cuarzo Fantasma 
+Cuarzo Fantasma
 
-Calcita 
+Calcita
 
-Fluorita en drusa y en bruto 
+Fluorita en drusa y en bruto
 
-Goldenita 
+Goldenita
 
 Apofilita
 
-Ágata de Seda de Madagascar 
+Ágata de Seda de Madagascar
 
-Cuarzo Ahumado 
+Cuarzo Ahumado
 
-Cuarzo Citrino 
+Cuarzo Citrino
 
-Cuarzo Amatista 
+Cuarzo Amatista
 
-Cuarzo con Gota de Agua 
+Cuarzo con Gota de Agua
 
-Charoita 
+Charoita
 
-Cuarzo Bipiramidal 
+Cuarzo Bipiramidal
 
-Jade 
+Jade
 
 Cuarzo con Turmalina
 
@@ -158,46 +158,46 @@ Calcantita
 
 Circón Natural en Bruto
 
-Aventurina verde 
+Aventurina verde
 
 Aventurina Roja
 
-Lazurita Fluorescente 
+Lazurita Fluorescente
 
 Koshitan
 
 Cuarzo de Titanio
 
-Apatita Azul 
+Apatita Azul
 
-Apatita Verde 
+Apatita Verde
 
 Peridoto
 
-Topacio Azul 
+Topacio Azul
 
 Topacio Londres
 
-Aguamarina 
+Aguamarina
 
-Coral Rojo 
+Coral Rojo
 
-Coral Azul 
+Coral Azul
 
-Jaspe 
+Jaspe
 
-Jaspe Oceánico 
+Jaspe Oceánico
 
-Sepatariano bola de Dragón cristal 
+Sepatariano bola de Dragón cristal
 
-Rodocrosita 
+Rodocrosita
 
-Rubí Sangre de Pichón 
+Rubí Sangre de Pichón
 
-Cuarzo Negro 
+Cuarzo Negro
 
-Oropimente 
+Oropimente
 
-Azurita 
+Azurita
 
 Malaquita
