@@ -18,9 +18,11 @@ Hermoso Espécimen de Amonita 100% Natural
 
 Origen Marruecos
 
-Peso 88 Gramos 
+Peso 88 Gramos
 
 Medidas 7.50 X 5 X 2 Centímetros
+
+[https://youtu.be/EbSxC5urqYE](https://youtu.be/EbSxC5urqYE "https://youtu.be/EbSxC5urqYE")
 
 CONTAMOS CON TALLADOR Y JOYERO
 
@@ -36,123 +38,123 @@ Se utilizan como talismanes que confieren a sus poseedores paciencia y dominio s
 
 Durante muchos siglos los fósiles molidos se han administrado como medicamentos a los enfermos, no sólo en Europa sino también en Asia.
 
-LISTADO DE PIEDRAS PRECIOSAS Y MINERALES DISPONBLES 
+LISTADO DE PIEDRAS PRECIOSAS Y MINERALES DISPONBLES
 
-Esmeralda Colombiana 
+Esmeralda Colombiana
 
 Esmeralda Rosada o Morganita
 
 Esmeralda Roja o Bixbita
 
-Esmeralda Azul o Euclasa 
+Esmeralda Azul o Euclasa
 
-Rubí 
+Rubí
 
-Zafiro 
+Zafiro
 
 Diamante solo por pedido y solo se vende con certificado por seguridad para el cliente
 
-Alejandrita piedra preciosa de color cambiante 
+Alejandrita piedra preciosa de color cambiante
 
-Diásporo piedra preciosa de color cambiante 
+Diásporo piedra preciosa de color cambiante
 
-Sultanita piedra preciosa de color Cambiante 
+Sultanita piedra preciosa de color Cambiante
 
-Moldavita que es un raro meteorito parecido a la esmeralda fusión de meteorito con material terrestre 
+Moldavita que es un raro meteorito parecido a la esmeralda fusión de meteorito con material terrestre
 
-Campo de cielo meteorito metálico 
+Campo de cielo meteorito metálico
 
-Cristal negro meteorito campo celeste proveniente del planeta Marte 
+Cristal negro meteorito campo celeste proveniente del planeta Marte
 
-Cristal de oro o cristal del desierto proveniente del planeta Marte 
+Cristal de oro o cristal del desierto proveniente del planeta Marte
 
-Condrita Meteorito 
+Condrita Meteorito
 
-Acondrita 
+Acondrita
 
-Ópalo de Welo de Australia 
+Ópalo de Welo de Australia
 
-Ópalo negro de Australia 
+Ópalo negro de Australia
 
-Ópalo de fuego de Etiopía 
+Ópalo de fuego de Etiopía
 
-Larimar proveniente de la República Dominicana 
+Larimar proveniente de la República Dominicana
 
-Aragonito Español 
+Aragonito Español
 
-Cuarzo Solar Mexicano 
+Cuarzo Solar Mexicano
 
-Amatista 
+Amatista
 
-Ametrino 
+Ametrino
 
-Citrino 
+Citrino
 
-Malaquita 
+Malaquita
 
-Ágata de fuego proviene de México 
+Ágata de fuego proviene de México
 
-Ágatas de casi todos los colores siendo unas de las pocas piedras que se encuentran en casi todos los continentes y en casi todos los colores 
+Ágatas de casi todos los colores siendo unas de las pocas piedras que se encuentran en casi todos los continentes y en casi todos los colores
 
-Obsidiana 
+Obsidiana
 
-Ónix cielo 
+Ónix cielo
 
-Ónix negro 
+Ónix negro
 
-Labradorita 
+Labradorita
 
 Espectrolita
 
-Ojo de tigre 
+Ojo de tigre
 
 Ojo de Buey
 
-Turmalina sandia tallada 
+Turmalina sandia tallada
 
-Turmalina sandia en bruto 
+Turmalina sandia en bruto
 
-Granate piropo 
+Granate piropo
 
 Granate Henossita
 
-Granate estrella 
+Granate estrella
 
-Ammonite natural es una piedra fosilizada de millones de años proveniente de Canadá 
+Ammonite natural es una piedra fosilizada de millones de años proveniente de Canadá
 
-Espinela 
+Espinela
 
-Cuarzo arcoíris 
+Cuarzo arcoíris
 
-Cuarzo ahumado 
+Cuarzo ahumado
 
-Cuarzo en variadas formas 
+Cuarzo en variadas formas
 
-Cuarzo Fantasma 
+Cuarzo Fantasma
 
-Calcita 
+Calcita
 
-Fluorita en drusa y en bruto 
+Fluorita en drusa y en bruto
 
-Goldenita 
+Goldenita
 
-Apophyllite 
+Apophyllite
 
-Ágata de Seda de Madagascar 
+Ágata de Seda de Madagascar
 
-Cuarzo Ahumado 
+Cuarzo Ahumado
 
-Cuarzo Citrino 
+Cuarzo Citrino
 
-Cuarzo Amatista 
+Cuarzo Amatista
 
-Cuarzo con Gota de Agua 
+Cuarzo con Gota de Agua
 
-Charoita 
+Charoita
 
-Cuarzo Bipiramidal 
+Cuarzo Bipiramidal
 
-Jade 
+Jade
 
 Cuarzo con Turmalina
 
@@ -160,46 +162,46 @@ Chalcantite
 
 Circón Natural en Bruto
 
-Aventurina verde 
+Aventurina verde
 
 Aventurina Roja
 
-Lazurita Fluorescente 
+Lazurita Fluorescente
 
 Koshitan
 
-Cuarzo de Titanio 
+Cuarzo de Titanio
 
-Apatita Azul 
+Apatita Azul
 
-Apatita Verde 
+Apatita Verde
 
 Peridoto
 
-Topacio Blue 
+Topacio Blue
 
-Topacio London 
+Topacio London
 
 Aguamarina
 
 Coral Rojo
 
-Coral Azul 
+Coral Azul
 
-Jaspe 
+Jaspe
 
-Jaspe Oceánico 
+Jaspe Oceánico
 
-Sepatariano bola de Dragón cristal 
+Sepatariano bola de Dragón cristal
 
-Rodocrosita 
+Rodocrosita
 
 Rubí Sangre de Pichón
 
 Cuarzo Negro
 
-Oropimente 
+Oropimente
 
-Azurita 
+Azurita
 
 Malaquita
