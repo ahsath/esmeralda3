@@ -1,10 +1,10 @@
 ---
-date: 2020-06-07T16:38:01Z
+date: 2020-06-07T16:38:01.000+00:00
 category: Meteoritos
 available: true
-title: 'Acondrita Meteorito Rocoso 235 Quilates '
+title: 'Condrita Meteorito Rocoso 235 Quilates '
 unit_price: '420.000'
-description: 'Meteorito de la Especie Acondrita '
+description: 'Meteorito de la Especie Condrita '
 cover_img: "/uploads/img_20200605_021900.jpg"
 images:
 - "/uploads/img_20200605_021917.jpg"
@@ -12,17 +12,17 @@ images:
 - "/uploads/img_20200605_021906.jpg"
 
 ---
-Meteorito de la Especie Acondrita 
+Meteorito de la Especie Condrita
 
-Origen Extraterrestre 
+Origen Extraterrestre
 
-Peso 235 Quilates 
+Peso 235 Quilates
 
-Medidas 38 X 34 X 26 Milímetros 
+Medidas 38 X 34 X 26 Milímetros
 
 [https://youtu.be/I8G56fqGh8I](https://youtu.be/I8G56fqGh8I "https://youtu.be/I8G56fqGh8I")
 
-CONTAMOS CON TALLADOR Y JOYERO 
+CONTAMOS CON TALLADOR Y JOYERO
 
 Propiedades de los meteoritos en gemoterapia
 

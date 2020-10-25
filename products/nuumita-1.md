@@ -19,9 +19,11 @@ Nombre: Nuumita
 
 Origen: Groenlandia
 
-Peso: 9.25 Ct
+Peso: 9.25 Quilates
 
-Medidas: 14.90 X 12.77 X 7.78
+Medidas: 14.90 X 12.77 X 7.78 Milimetros 
+
+[https://www.youtube.com/watch?v=0XKUBPcDOaI](https://www.youtube.com/watch?v=0XKUBPcDOaI "https://www.youtube.com/watch?v=0XKUBPcDOaI")
 
 Propiedades: La piedra nuumita es múltiples por muchas personas creyentes de sus facultades místicas, para alejar fuerzas oscuras, energías negativas. Entre más la usa su portador o dueño más va sincronizándose con ella, conociendo cada vez más sus capacidades.
 
