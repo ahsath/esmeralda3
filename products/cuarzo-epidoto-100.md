@@ -1,34 +1,38 @@
 ---
-date: 2020-07-21T13:04:32Z
-category: Piedras preciosas
+date: 2020-07-21T00:34:05Z
+category: Semi preciosas
 available: true
-title: 'Rubi Piedra 100% Natural 24.25 Quilates '
-unit_price: '150.000'
-description: 'Rubi Natural 24.25 Ct 100% Natural '
-cover_img: "/uploads/img_20200711_083007.jpg"
+title: Cuarzo Epidoto Piedra 100%Natural 20 Quilates
+unit_price: '350.000'
+description: 'Cuarzo Epidoto 100% Natural '
+cover_img: "/uploads/img_20200711_075401.jpg"
 images:
-- "/uploads/img_20200711_083019.jpg"
-- "/uploads/img_20200711_083016.jpg"
-- "/uploads/img_20200711_083014.jpg"
-- "/uploads/img_20200711_083011.jpg"
-- "/uploads/img_20200711_083010.jpg"
-- "/uploads/img_20200711_083009.jpg"
+- "/uploads/img_20200711_075335.jpg"
+- "/uploads/img_20200711_074831.jpg"
+- "/uploads/img_20200711_074825.jpg"
+- "/uploads/img_20200711_074754.jpg"
+- "/uploads/img_20200711_074601.jpg"
+- "/uploads/img_20200711_074554.jpg"
+- "/uploads/img_20200711_074532.jpg"
+- "/uploads/img_20200711_074521.jpg"
+- "/uploads/img_20200711_074509.jpg"
+- "/uploads/img_20200711_074416.jpg"
+- "/uploads/img_20200711_074347.jpg"
 
 ---
-Nombre: Rubi Natural
+Cuarzo Epidoto Piedra 100% Natural Sin Tratamiento
 
-Origen: India
+Origen: Kenia
 
-Peso: 24.25
+Peso: 20,75 quilates
 
-Medidas: 16.14 X 16.14 X 4.37 Milímetros
+Medidas: 19,66 X 12,84 X 8,36 Milímetros.
 
-Propiedades: El rubí es una excelente piedra para activar las energías, imparte vigor a la vida a la vez que energetiza y equilibra pero teniendo cuidado con personas delicadas, ya que podría sobre estimularlas.   
-Actúa sobre el chacra corazón, anima a hacer lo que desea y te hace feliz así como fomenta los sueños positivos y la visualización clara.   
-Psicológicamente saca al exterior para su transmutación el enfado y la energía negativa y, mentalmente te aporta un estado de positivo y valiente. A nivel emocional carga la pasión y el entusiasmo y, a nivel físico ayuda a superar el letargo impartiendo vigor.   
-Hay una combinación del rubí con la zoisita, la cual activa el chacra coronario y es muy útil en la curación del alma.
+[https://www.youtube.com/watch?v=Z9jDaOYh6Eg](https://www.youtube.com/watch?v=Z9jDaOYh6Eg "https://www.youtube.com/watch?v=Z9jDaOYh6Eg")
 
 Contamos con Joyero y Tallador
+
+PROPIEDADES: Se dice que la epidoto potencia la percepción, te ofrece el coraje de disfrutar de la vida al máximo, fortalece el sentido de la identidad, la epidoto es perfecta para los que pueden fácilmente en el victimismo o se creen mártires, pues disipa la autocrítica, limpia los estados emocionales negativos, como el estrés, la autocompasión y la ansiedad, la epidoto purifica el cuerpo emocional, liberando el dolor y los viejos traumas emocionales.
 
 Listado de Minerales Disponibles
 
@@ -88,9 +92,9 @@ Malaquita
 
 Crisocola
 
-Ágata de fuego proviene de México
+Ágata de fuego afectados de México
 
-Ágatas de casi todos los colores siendo unas de las pocas piedras que se encuentran en casi todos los continentes y en casi todos los colores
+Ágatas de casi todos los colores son unas de las pocas piedras que se encuentran en casi todos los continentes y en casi todos los colores
 
 Obsidiana
 
@@ -110,13 +114,13 @@ Turmalina sandia tallada
 
 Turmalina sandia en bruto
 
-Granate piropo
+Granado de piropo
 
 Granate Henossita
 
 Granate estrella
 
-Ammonite natural es una piedra fosilizada de millones de años proveniente de Canadá
+Amonita natural es una piedra fosilizada de millones de años proveniente de Canadá
 
 Espinela
 
@@ -156,7 +160,7 @@ Fluorita en drusa y en bruto
 
 Goldenita
 
-Apophyllite
+Apofilita
 
 Ágata de Seda de Madagascar
 
@@ -176,7 +180,7 @@ Jade
 
 Cuarzo con Turmalina
 
-Chalcantite
+Calcantita
 
 Circón Natural en Bruto
 
@@ -202,9 +206,9 @@ Topacio London
 
 Aguamarina
 
-Coral Rojo
+Coral rojo
 
-Coral Azul
+Coral azul
 
 Jaspe
 
@@ -221,5 +225,3 @@ Cuarzo Negro
 Oropimente
 
 Azurita
-
-Malaquita
