@@ -1,8 +1,8 @@
 ---
-date: 2020-06-08T12:16:28Z
+date: 2020-06-08T12:16:28.000+00:00
 category: Fósil
 available: true
-title: 'Amonita Piedra Fósil Natural 270 Quilates '
+title: 'Amonita Piedra Fosil 100% Natural 270 Quilates '
 unit_price: '130.000'
 description: 'Ejemplar de Amonita Fósil Natural '
 cover_img: "/uploads/img_20200605_030900.jpg"
