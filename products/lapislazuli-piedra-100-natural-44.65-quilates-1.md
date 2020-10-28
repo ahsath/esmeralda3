@@ -22,6 +22,8 @@ Peso: 44,65 Quilates
 
 Medidas: 34 X 20 X 9 Milímetros
 
+[https://www.youtube.com/watch?v=Mekik9IgU_8](https://www.youtube.com/watch?v=Mekik9IgU_8 "https://www.youtube.com/watch?v=Mekik9IgU_8")
+
 CONTAMOS CON JOYERO Y TALLADOR
 
 Propiedades: El lapislázuli abre el tercer ojo y equilibra el chacra de la garganta. Es una piedra que ayuda a liberar rápidamente el estrés, aportando una paz profunda. Posee una enorme serenidad y trae la clave de la realización espiritual. Es una piedra protectora que contacta con los espíritus guardianes. Reconoce el ataque, bloqueándolo y devolviéndolo a su origen. Armoniza los niveles físicos, emocionales, mentales y espirituales, aportando un profundo conocimiento interno cuando están equilibrados. Es un poderoso amplificador del pensamiento, aporta claridad y objetividad. Anima a la creatividad y ayuda a afrontar la verdad. Ideal colocarlo sobre el tercer ojo o sobre la garganta.
