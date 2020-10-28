@@ -1,8 +1,8 @@
 ---
 date: 2020-04-27T21:19:05.000+00:00
-category: Piedras preciosas
+category: Semi preciosas
 available: true
-title: Lapislázuli Pakistán 100% Natural 507 Gramos
+title: Lapislazuli Pakistán 100% Natural 507 Gramos
 description: Hermoso Ejemplar de Lapislázuli Piedra 100% Natural
 unit_price: '460.000'
 images:
@@ -18,12 +18,12 @@ cover_img: "/uploads/8562b006-470b-41f2-be3c-6d3a33f5f9a8.jpg"
 ---
 Hermoso Ejemplar de Lapislázuli Piedra 100% Natural
 
-Origen Pakistán 
+Origen Pakistán
 
-Peso 507 Gramos 
+Peso 507 gramos
 
 Medidas 16 X 6 X 4 Centímetros
 
 [https://www.youtube.com/watch?v=gnSkxGPNVpU](https://www.youtube.com/watch?v=gnSkxGPNVpU "https://www.youtube.com/watch?v=gnSkxGPNVpU")
 
-El lapislázuli abre el tercer ojo y equilibra la chacra de la garganta. Es una piedra que ayuda a liberar rápidamente el estrés, aportando una paz profunda. Posee una enorme serenidad y trae la clave de la realización espiritual. Es una piedra protectora que contacta con los espíritus guardianes. Reconoce el ataque, bloqueando y devolviéndolo a su origen. Armoniza los niveles físico, emocional, mental y espiritual, aportando un profundo conocimiento interno cuando están equilibrados. Es un poderoso amplificador del pensamiento, aporta claridad y objetividad. Anima a la creatividad y ayuda a afrontar la verdad. Ideal colocarlo sobre el tercer ojo o sobre la garganta. Debe colocarse también sobre el diafragma o en cualquier lugar entre el esternón y la parte alta de la cabeza para que pueda realizar una forma correcta su función.
+El lapislázuli abre el tercer ojo y equilibra la chacra de la garganta. Es una piedra que ayuda a liberar rápidamente el estrés, aportando una paz profunda. Posee una enorme serenidad y trae la clave de la realización espiritual. Es una piedra protectora que contacta con los espíritus guardianes. Reconoce el ataque, bloqueando y devolviéndolo a su origen. Armoniza los niveles físicos, emocionales, mentales y espirituales, aportando un profundo conocimiento interno cuando están equilibrados. Es un poderoso amplificador del pensamiento, aporta claridad y objetividad. Anima a la creatividad y ayuda a afrontar la verdad. Ideal colocarlo sobre el tercer ojo o sobre la garganta. Debe colocarse también sobre el diafragma o en cualquier lugar entre el esternón y la parte alta de la cabeza para que pueda realizar una forma correcta de su función.
