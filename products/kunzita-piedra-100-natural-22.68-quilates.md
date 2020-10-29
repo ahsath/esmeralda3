@@ -1,47 +1,37 @@
 ---
-date: 2020-08-08T12:49:08Z
+date: 2020-10-29T00:03:31Z
 category: Semi preciosas
 available: true
-title: 'Broncita Piedra 100% Natural 44.85 Quilates '
-unit_price: '120.000'
-description: Broncita Piedra 100% Natural
-cover_img: "/uploads/img_20200724_192752_1.jpg"
+title: 'Kunzita Piedra 100% Natural 22.68 Quilates '
+unit_price: '60.0000'
+description: Ejemplar Kunzita 100% Natural
+cover_img: "/uploads/img_20200724_193041.jpg"
 images:
-- "/uploads/img_20200724_193030.jpg"
-- "/uploads/img_20200724_192752_1.jpg"
-- "/uploads/img_20200724_192751_4.jpg"
-- "/uploads/img_20200724_192751.jpg"
-- "/uploads/img_20200724_192750.jpg"
-- "/uploads/img_20200724_192749.jpg"
+- "/uploads/img_20200724_193045_2.jpg"
+- "/uploads/img_20200724_193045.jpg"
+- "/uploads/img_20200724_193041.jpg"
+- "/uploads/img_20200724_193036_2.jpg"
 
 ---
-Hermoso Ejemplar de Piedra Broncita
+Kunzita Ejemplar 100% Natural
 
-Origen Tanzania
+Origen Madagascar
 
-Peso 44.85 Quilates
+Peso 22.68 Quilates 
 
-Medidas 35.29 X 24.83 X 4.79 Milímetros
+Medidas 26.99 X 16.58 X 5.46 Milímetros 
 
-[https://www.youtube.com/watch?v=ypuqKXFjrHg](https://www.youtube.com/watch?v=ypuqKXFjrHg "https://www.youtube.com/watch?v=ypuqKXFjrHg")
+CONTAMOS CON TALLADOR Y JOYERO 
 
-CONTAMOS CON JOYERO Y TALLADOR
+Somos, esmeralda3com
 
-Broncita
+ROPIEDADES: Se dice que la kunzita estimula la entrega y la humildad, ayuda a ser flexible ya tratar de comprender las necesidades de los demás, estimula la capacidad de recordar, es una piedra protectora, tiene la capacidad de disolver la negatividad, anima la autoexpresión y permite la expresión libre de los sentimientos, tiene la capacidad de combinar el intelecto, la intuición y la inspiración.
 
-Trae armonía, compasión y perdón
+CHAKRAS: Corazón.
 
-Broncita tiene una energía que ayuda a promover la paz y la armonía, y ayuda al crecimiento de los sentimientos de compasión y perdón.
+SIGNO ZODIACAL: Tauro.
 
-En situaciones estresantes, te ayudarán a mantener la calma y pueden ayudarte a no perder los estribos cuando te sientas desafiado por las situaciones de la vida.
-
-Estas piedras tienen poderosas propiedades metafísicas que son útiles para usar en la meditación y tienen un número de excelentes atributos curativos.
-
-Es una gema defensora de los sentidos, expone las cualidades psicológicas al exterior para su modificación potenciando la autoestima.
-
-Aporta entendimiento de auto valoración y emite atreves del corazón el amor por las artes, utilizando la pasión en todo lo que se realiza. Libera el estrés por medio de la activación del erotismo fortificando los estados emocionales, trabajando como estabilizador, la lealtad, espontaneidad y fidelidad.
-
-Con tu primera compras obtendrás mis datos y todas tus futuras compras tendrán excelentes descuentos todos mis artículos van acompañados con obsequio anímate a comprar cuento con una amplia gama de minerales
+ 
 
 CONTAMOS CON MAS DE 2000 MINERALES DIFERENTES PREGUNTA POR EL QUE NO VEAS
 

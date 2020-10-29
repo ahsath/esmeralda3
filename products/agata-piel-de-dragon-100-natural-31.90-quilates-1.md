@@ -1,47 +1,44 @@
 ---
-date: 2020-08-08T12:49:08Z
+date: 2020-10-29T00:59:42Z
 category: Semi preciosas
 available: true
-title: 'Broncita Piedra 100% Natural 44.85 Quilates '
-unit_price: '120.000'
-description: Broncita Piedra 100% Natural
-cover_img: "/uploads/img_20200724_192752_1.jpg"
+title: 'Agata Piel De Dragon 100% Natural 31.90 Quilates '
+unit_price: '60.000'
+description: 'Nombre: Agata Piel de Dragon 100% Natural'
+cover_img: "/uploads/img_20200724_193613_2.jpg"
 images:
-- "/uploads/img_20200724_193030.jpg"
-- "/uploads/img_20200724_192752_1.jpg"
-- "/uploads/img_20200724_192751_4.jpg"
-- "/uploads/img_20200724_192751.jpg"
-- "/uploads/img_20200724_192750.jpg"
-- "/uploads/img_20200724_192749.jpg"
+- "/uploads/img_20200724_193613_2.jpg"
+- "/uploads/img_20200724_193613.jpg"
+- "/uploads/img_20200724_193612.jpg"
+- "/uploads/img_20200724_193605_1.jpg"
+- "/uploads/img_20200724_193604.jpg"
 
 ---
-Hermoso Ejemplar de Piedra Broncita
+Nombre: Agata Piel de Dragon 100% Natural
 
-Origen Tanzania
+Origen: Madagascar 
 
-Peso 44.85 Quilates
+Peso: 31,90 Quilates
 
-Medidas 35.29 X 24.83 X 4.79 Milímetros
+Medidas: 39 X 19 X 6 Milímetros 
 
-[https://www.youtube.com/watch?v=ypuqKXFjrHg](https://www.youtube.com/watch?v=ypuqKXFjrHg "https://www.youtube.com/watch?v=ypuqKXFjrHg")
+[https://www.youtube.com/watch?v=kq14QHZpM4k](https://www.youtube.com/watch?v=kq14QHZpM4k "https://www.youtube.com/watch?v=kq14QHZpM4k") 
 
-CONTAMOS CON JOYERO Y TALLADOR
+CONTAMOS CON TALLADOR Y JOYERO 
 
-Broncita
+Somos, esmeralda3com
 
-Trae armonía, compasión y perdón
+Las ágatas son minerales que sirven para asentar las energías y aportar equilibrio físico, emocional e intelectual a la persona. Ayudan a centrar y estabilizar la energía física.
 
-Broncita tiene una energía que ayuda a promover la paz y la armonía, y ayuda al crecimiento de los sentimientos de compasión y perdón.
+Tienen el poder de armonizar el ying y el yang, fuerzas positivas y negativas, además de calmar y aliviar.
 
-En situaciones estresantes, te ayudarán a mantener la calma y pueden ayudarte a no perder los estribos cuando te sientas desafiado por las situaciones de la vida.
+Psicológicamente facilita la aceptación de uno mismo fomentando la autoconfianza, ayuda a mejorar la concentración, la percepción y las habilidades analíticas de uno mismo.
 
-Estas piedras tienen poderosas propiedades metafísicas que son útiles para usar en la meditación y tienen un número de excelentes atributos curativos.
+Emocionalmente te ayuda a superar la negatividad y la amargura del corazón, sana la ira interna y fomenta el amor y el coraje.
 
-Es una gema defensora de los sentidos, expone las cualidades psicológicas al exterior para su modificación potenciando la autoestima.
+Te eleva la conciencia y la vincula con la colectiva, anima a la contemplación y la asimilación de las experiencias de la vida a nivel espiritual.
 
-Aporta entendimiento de auto valoración y emite atreves del corazón el amor por las artes, utilizando la pasión en todo lo que se realiza. Libera el estrés por medio de la activación del erotismo fortificando los estados emocionales, trabajando como estabilizador, la lealtad, espontaneidad y fidelidad.
-
-Con tu primera compras obtendrás mis datos y todas tus futuras compras tendrán excelentes descuentos todos mis artículos van acompañados con obsequio anímate a comprar cuento con una amplia gama de minerales
+A nivel curativo, el ágata estabiliza el aura eliminando o transformando las energías negativas.
 
 CONTAMOS CON MAS DE 2000 MINERALES DIFERENTES PREGUNTA POR EL QUE NO VEAS
 
