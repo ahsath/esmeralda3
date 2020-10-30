@@ -1,8 +1,8 @@
 ---
-date: 2020-05-13T20:00:34Z
+date: 2020-05-13T20:00:34.000+00:00
 category: Semi preciosas
 available: true
-title: Ágata De Seda Rosada Piedra Natural  370 Quilates
+title: Agata De Seda Rosada Piedra Natural  370 Quilates
 unit_price: '110.000'
 description: Hermosa Agata Natural De Seda Piedra 100% Natural
 cover_img: "/uploads/IMG_20200120_085309.jpg"

@@ -1,8 +1,8 @@
 ---
-date: 2020-05-30T16:25:52Z
+date: 2020-05-30T16:25:52.000+00:00
 category: Piedras preciosas
 available: true
-title: 'Ágata De Fuego Piedra Natural 19.80 Quilates  '
+title: 'Agata De Fuego Piedra Natural 19.80 Quilates  '
 unit_price: '570.000'
 description: 'Ejemplar de Ágata de Fuego Piedra Natural '
 cover_img: "/uploads/img_20200527_164927.jpg"

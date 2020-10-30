@@ -2,9 +2,9 @@
 date: 2020-07-21T14:03:40Z
 category: Piedras preciosas
 available: true
-title: 'Agata Dentritica '
+title: Agata Dentrica Piedra 100% Natural 32.20 Quilates
 unit_price: "$ 130.000"
-description: 'Agata Dentritica 32.20 Ct '
+description: 'Nombre: Ágata Natural 100% Natural'
 cover_img: "/uploads/img_20200711_084557.jpg"
 images:
 - "/uploads/img_20200711_084614_1.jpg"
