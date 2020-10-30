@@ -13,12 +13,12 @@ images:
 - "/uploads/img_20200727_184349.jpg"
 
 ---
-Nombre: Agata Dentritica 
+Nombre: Agata Dentritica 100% Natural
 
-Origen: Madagascar 
+Origen: Madagascar
 
-Peso: 51 quilates
+Peso: 51 Quilates
 
-Medidas: 41 X 24 X 8
+Medidas: 41 X 24 X 8 Milimetros
 
 Contamos con Joyero y Tallador
